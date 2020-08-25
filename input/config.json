@@ -1,0 +1,17 @@
+{
+"headers" : [{
+    "id": "date",
+    "title": "Months"
+},
+{
+    "id": "value",
+    "title": "Value"
+},
+{
+    "id": "measure",
+    "title": "Measure"
+}
+],
+"input" : ["Months", "Price ppl","Volume (million litres)","Butterfat (%)","Protein (%)"]
+
+}
