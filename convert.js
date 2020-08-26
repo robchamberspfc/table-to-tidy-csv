@@ -21,7 +21,6 @@ function afterConfigLoaded(config) {
 
     let data = [];
 
-    // d3.csv("http://127.0.0.1:8887/input/test.csv").then(function (d) {
     d3.csv("http://127.0.0.1:8887/input/full.csv").then(function (d) {
         let output = []
         for (i = 1; i < config.input.length; i++) {
