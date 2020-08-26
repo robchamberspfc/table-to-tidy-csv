@@ -2,16 +2,35 @@
 
 Converts simple tabular data and allows additional columns to be added, either universally or based on the values in other columns.
 
+## Input
+|Time|Label|Label|Label|
+|---|---|---|---|
+|{date values}|{data}|{data}|{data}|
+|{date values}|{data}|{data}|{data}|
+|{date values}|{data}|{data}|{data}|
+
+## Output
+|Time|Values|Dimension|
+|---|---|---|
+|{date values}|{data}|{label}|
+|{date values}|{data}|{label}|
+|{date values}|{data}|{label}|
+
 ## Running
 
-```clone repo```
+Instructions for MacOS
+
+**To install:**
 
 ```npm install```
 
-```node convert.js {script} {filepath} {filename}```
+**To run:**
 
-e.g. node convert.js config http://127.0.0.1:8887/input/ full
+```node convert.js {config-name} {input-filepath} {input-filename}```
 
+For example: ```node convert.js config http://127.0.0.1:8887/input/ full```
+
+Input files must be available from a full URI
 
 ## Define input
 
@@ -19,12 +38,20 @@ e.g. node convert.js config http://127.0.0.1:8887/input/ full
 
 #### Required config
 
+[Example](/input/config.json)
+
 ##### Input
+
+The input describes the column title of the input CSV.
+
 ```    
 "input": ["Months", "Price ppl", "Volume (million litres)", "Butterfat (%)", "Protein (%)"],
 ```
 
 ##### Headers
+
+Each column in the output CSV must be defined in the headers block in the following format. 
+
 ```
     {
         "id": "date",
@@ -32,43 +59,36 @@ e.g. node convert.js config http://127.0.0.1:8887/input/ full
     },
 ```
 
-#### Expected input
-|Time|Label|Label|Label|
-|---|---|---|---|
-|{date values}|{data}|{data}|{data}|
-|{date values}|{data}|{data}|{data}|
-|{date values}|{data}|{data}|{data}|
 
-#### Output
-|Time|Values|Dimension|
-|---|---|---|
-|{date values}|{data}|{label}|
-|{date values}|{data}|{label}|
-|{date values}|{data}|{label}|
+#### Additional columns
 
-### Additional columns
+Additional columns must be added after the 3 required output columns.
 
-#### Same value for all fields
-In the `config.json` file you can define additional columns and a specific value to add to each row of the CSV.
+##### Same value for all fields
+In yor config file you can define additional columns and a specific value to add to each row of the CSV.
 
- Note: ensure you also add a corresponding header and that the ID's match. E.g.
-##### In 'header'
-```
-    {
-        "id": "example1",
-        "title": "Test"
-    },
-```
-and
-##### In 'additional'
+Note: ensure you also add a corresponding header and that the ID's match. 
+
+For example:
+
+**'additional'**
 ```
     {
         "id": "example1"",
         "value": "Test value"
     },
 ```
+and
 
-### Dependent on other column values
+**'header'**
+```
+    {
+        "id": "example1",
+        "title": "Test"
+    },
+```
+
+##### Dependent on other column values
 
 ```
     {
