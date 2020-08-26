@@ -18,6 +18,13 @@
         {
             "id": "date1234",
             "title": "Test2"
+        },
+        {
+            "id": "unit",
+            "title": "Units"
+        },       {
+            "id": "geog",
+            "title": "Geography"
         }
     ],
     "input": ["Months", "Price ppl", "Volume (million litres)", "Butterfat (%)", "Protein (%)"],
@@ -30,8 +37,24 @@
         "value": "Months1"
     }],
     "dependent": [{
-        "title": "",
-        "ifValue": "",
-        "thenValue": ""
+        "id": "unit",
+        "column":"measure",
+        "ifValue": "Price ppl",
+        "thenValue": "price"
+    },{
+        "id": "unit",
+        "column":"measure",
+        "ifValue": "Volume (million litres)",
+        "thenValue": "volume"
+    },{
+        "id": "unit",
+        "column":"measure",
+        "ifValue": "Butterfat (%)",
+        "thenValue": "butterfat"
+    },{
+        "id": "unit",
+        "column":"measure",
+        "ifValue": "Protein (%)",
+        "thenValue": "protein"
     }]
 }

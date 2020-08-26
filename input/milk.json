@@ -1,7 +1,7 @@
 {
     "headers": [{
             "id": "date",
-            "title": "Months"
+            "title": "Month"
         },
         {
             "id": "value",
@@ -10,13 +10,40 @@
         {
             "id": "measure",
             "title": "Measure"
+        },
+        {
+            "id": "unit",
+            "title": "Units"
+        },
+        {
+            "id": "geog",
+            "title": "Geography"
         }
     ],
     "input": ["Months", "Price ppl", "Volume (million litres)", "Butterfat (%)", "Protein (%)"],
-    "additional": [],
+    "additional": [{
+        "id": "geog",
+        "value": "K02000001"
+    }],
     "dependent": [{
-        "title": "",
-        "ifValue": "",
-        "thenValue": ""
+        "id": "unit",
+        "column": "measure",
+        "ifValue": "Price ppl",
+        "thenValue": "Pence per litre"
+    }, {
+        "id": "unit",
+        "column": "measure",
+        "ifValue": "Volume (million litres)",
+        "thenValue": "Million litres"
+    }, {
+        "id": "unit",
+        "column": "measure",
+        "ifValue": "Butterfat (%)",
+        "thenValue": "Percentage"
+    }, {
+        "id": "unit",
+        "column": "measure",
+        "ifValue": "Protein (%)",
+        "thenValue": "Percentage"
     }]
 }

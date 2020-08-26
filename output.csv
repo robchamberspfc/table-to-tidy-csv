@@ -1,17 +1,1538 @@
-Months,Value,Measure,Test,Test2
-Jul-94,24.06,Price ppl,Months,Months1
-Aug-94,24.27,Price ppl,Months,Months1
-Sep-94,24.22,Price ppl,Months,Months1
-Oct-94,23.39,Price ppl,Months,Months1
-Nov-94 (2),24.34,Price ppl,Months,Months1
-Dec-94 (2),24.09,Price ppl,Months,Months1
-Nov-94 (2),"1,102",Volume (million litres),Months,Months1
-Dec-94 (2),"1,131",Volume (million litres),Months,Months1
-Jul-94,3.96,Butterfat (%),Months,Months1
-Aug-94,4.01,Butterfat (%),Months,Months1
-Sep-94,4.19,Butterfat (%),Months,Months1
-Oct-94,4.23,Butterfat (%),Months,Months1
-Nov-94 (2),4.15,Butterfat (%),Months,Months1
-Dec-94 (2),4.12,Butterfat (%),Months,Months1
-Nov-94 (2),3.26,Protein (%),Months,Months1
-Dec-94 (2),3.21,Protein (%),Months,Months1
+Month,Value,Measure,Units,Geography
+Jan-70,4.08,Price ppl,Pence per litre,K02000001
+Feb-70,4.09,Price ppl,Pence per litre,K02000001
+Mar-70,4.07,Price ppl,Pence per litre,K02000001
+Apr-70,3.73,Price ppl,Pence per litre,K02000001
+May-70,2.90,Price ppl,Pence per litre,K02000001
+Jun-70,2.86,Price ppl,Pence per litre,K02000001
+Jul-70,3.31,Price ppl,Pence per litre,K02000001
+Aug-70,3.71,Price ppl,Pence per litre,K02000001
+Sep-70,3.92,Price ppl,Pence per litre,K02000001
+Oct-70,4.24,Price ppl,Pence per litre,K02000001
+Nov-70,4.23,Price ppl,Pence per litre,K02000001
+Dec-70,4.38,Price ppl,Pence per litre,K02000001
+Jan-71,4.35,Price ppl,Pence per litre,K02000001
+Feb-71,4.39,Price ppl,Pence per litre,K02000001
+Mar-71,4.43,Price ppl,Pence per litre,K02000001
+Apr-71,4.10,Price ppl,Pence per litre,K02000001
+May-71,3.22,Price ppl,Pence per litre,K02000001
+Jun-71,3.26,Price ppl,Pence per litre,K02000001
+Jul-71,3.73,Price ppl,Pence per litre,K02000001
+Aug-71,4.14,Price ppl,Pence per litre,K02000001
+Sep-71,4.50,Price ppl,Pence per litre,K02000001
+Oct-71,4.56,Price ppl,Pence per litre,K02000001
+Nov-71,4.74,Price ppl,Pence per litre,K02000001
+Dec-71,4.74,Price ppl,Pence per litre,K02000001
+Jan-72,4.74,Price ppl,Pence per litre,K02000001
+Feb-72,4.82,Price ppl,Pence per litre,K02000001
+Mar-72,4.72,Price ppl,Pence per litre,K02000001
+Apr-72,4.46,Price ppl,Pence per litre,K02000001
+May-72,3.59,Price ppl,Pence per litre,K02000001
+Jun-72,3.57,Price ppl,Pence per litre,K02000001
+Jul-72,3.91,Price ppl,Pence per litre,K02000001
+Aug-72,4.30,Price ppl,Pence per litre,K02000001
+Sep-72,4.65,Price ppl,Pence per litre,K02000001
+Oct-72,4.67,Price ppl,Pence per litre,K02000001
+Nov-72,4.74,Price ppl,Pence per litre,K02000001
+Dec-72,4.76,Price ppl,Pence per litre,K02000001
+Jan-73,4.78,Price ppl,Pence per litre,K02000001
+Feb-73,4.81,Price ppl,Pence per litre,K02000001
+Mar-73,4.75,Price ppl,Pence per litre,K02000001
+Apr-73,4.66,Price ppl,Pence per litre,K02000001
+May-73,3.80,Price ppl,Pence per litre,K02000001
+Jun-73,3.81,Price ppl,Pence per litre,K02000001
+Jul-73,4.21,Price ppl,Pence per litre,K02000001
+Aug-73,4.66,Price ppl,Pence per litre,K02000001
+Sep-73,5.08,Price ppl,Pence per litre,K02000001
+Oct-73,5.15,Price ppl,Pence per litre,K02000001
+Nov-73,6.46,Price ppl,Pence per litre,K02000001
+Dec-73,6.46,Price ppl,Pence per litre,K02000001
+Jan-74,6.53,Price ppl,Pence per litre,K02000001
+Feb-74,6.46,Price ppl,Pence per litre,K02000001
+Mar-74,5.62,Price ppl,Pence per litre,K02000001
+Apr-74,5.50,Price ppl,Pence per litre,K02000001
+May-74,4.65,Price ppl,Pence per litre,K02000001
+Jun-74,4.67,Price ppl,Pence per litre,K02000001
+Jul-74,5.05,Price ppl,Pence per litre,K02000001
+Aug-74,5.40,Price ppl,Pence per litre,K02000001
+Sep-74,5.82,Price ppl,Pence per litre,K02000001
+Oct-74,7.61,Price ppl,Pence per litre,K02000001
+Nov-74,7.69,Price ppl,Pence per litre,K02000001
+Dec-74,7.69,Price ppl,Pence per litre,K02000001
+Jan-75,7.79,Price ppl,Pence per litre,K02000001
+Feb-75,7.76,Price ppl,Pence per litre,K02000001
+Mar-75,7.62,Price ppl,Pence per litre,K02000001
+Apr-75,7.35,Price ppl,Pence per litre,K02000001
+May-75,6.47,Price ppl,Pence per litre,K02000001
+Jun-75,6.47,Price ppl,Pence per litre,K02000001
+Jul-75,6.84,Price ppl,Pence per litre,K02000001
+Aug-75,7.27,Price ppl,Pence per litre,K02000001
+Sep-75,8.85,Price ppl,Pence per litre,K02000001
+Oct-75,8.61,Price ppl,Pence per litre,K02000001
+Nov-75,8.69,Price ppl,Pence per litre,K02000001
+Dec-75,8.74,Price ppl,Pence per litre,K02000001
+Jan-76,8.80,Price ppl,Pence per litre,K02000001
+Feb-76,8.76,Price ppl,Pence per litre,K02000001
+Mar-76,8.63,Price ppl,Pence per litre,K02000001
+Apr-76,9.06,Price ppl,Pence per litre,K02000001
+May-76,8.19,Price ppl,Pence per litre,K02000001
+Jun-76,8.16,Price ppl,Pence per litre,K02000001
+Jul-76,8.59,Price ppl,Pence per litre,K02000001
+Aug-76,9.05,Price ppl,Pence per litre,K02000001
+Sep-76,9.82,Price ppl,Pence per litre,K02000001
+Oct-76,9.90,Price ppl,Pence per litre,K02000001
+Nov-76,9.98,Price ppl,Pence per litre,K02000001
+Dec-76,10.03,Price ppl,Pence per litre,K02000001
+Jan-77,10.15,Price ppl,Pence per litre,K02000001
+Feb-77,10.10,Price ppl,Pence per litre,K02000001
+Mar-77,10.05,Price ppl,Pence per litre,K02000001
+Apr-77,9.80,Price ppl,Pence per litre,K02000001
+May-77,8.97,Price ppl,Pence per litre,K02000001
+Jun-77,8.97,Price ppl,Pence per litre,K02000001
+Jul-77,9.35,Price ppl,Pence per litre,K02000001
+Aug-77,9.78,Price ppl,Pence per litre,K02000001
+Sep-77,10.13,Price ppl,Pence per litre,K02000001
+Oct-77,10.70,Price ppl,Pence per litre,K02000001
+Nov-77,10.78,Price ppl,Pence per litre,K02000001
+Dec-77,10.45,Price ppl,Pence per litre,K02000001
+Jan-78,10.43,Price ppl,Pence per litre,K02000001
+Feb-78,10.25,Price ppl,Pence per litre,K02000001
+Mar-78,10.12,Price ppl,Pence per litre,K02000001
+Apr-78,10.15,Price ppl,Pence per litre,K02000001
+May-78,9.44,Price ppl,Pence per litre,K02000001
+Jun-78,9.45,Price ppl,Pence per litre,K02000001
+Jul-78,9.79,Price ppl,Pence per litre,K02000001
+Aug-78,10.22,Price ppl,Pence per litre,K02000001
+Sep-78,10.59,Price ppl,Pence per litre,K02000001
+Oct-78,11.16,Price ppl,Pence per litre,K02000001
+Nov-78,11.26,Price ppl,Pence per litre,K02000001
+Dec-78,11.24,Price ppl,Pence per litre,K02000001
+Jan-79,11.29,Price ppl,Pence per litre,K02000001
+Feb-79,11.25,Price ppl,Pence per litre,K02000001
+Mar-79,11.12,Price ppl,Pence per litre,K02000001
+Apr-79,11.05,Price ppl,Pence per litre,K02000001
+May-79,10.19,Price ppl,Pence per litre,K02000001
+Jun-79,10.17,Price ppl,Pence per litre,K02000001
+Jul-79,10.55,Price ppl,Pence per litre,K02000001
+Aug-79,11.00,Price ppl,Pence per litre,K02000001
+Sep-79,11.35,Price ppl,Pence per litre,K02000001
+Oct-79,11.91,Price ppl,Pence per litre,K02000001
+Nov-79,12.23,Price ppl,Pence per litre,K02000001
+Dec-79,12.26,Price ppl,Pence per litre,K02000001
+Jan-80,12.41,Price ppl,Pence per litre,K02000001
+Feb-80,12.92,Price ppl,Pence per litre,K02000001
+Mar-80,12.80,Price ppl,Pence per litre,K02000001
+Apr-80,12.47,Price ppl,Pence per litre,K02000001
+May-80,11.56,Price ppl,Pence per litre,K02000001
+Jun-80,11.55,Price ppl,Pence per litre,K02000001
+Jul-80,11.93,Price ppl,Pence per litre,K02000001
+Aug-80,12.37,Price ppl,Pence per litre,K02000001
+Sep-80,12.72,Price ppl,Pence per litre,K02000001
+Oct-80,13.29,Price ppl,Pence per litre,K02000001
+Nov-80,13.40,Price ppl,Pence per litre,K02000001
+Dec-80,13.44,Price ppl,Pence per litre,K02000001
+Jan-81,13.45,Price ppl,Pence per litre,K02000001
+Feb-81,13.41,Price ppl,Pence per litre,K02000001
+Mar-81,13.28,Price ppl,Pence per litre,K02000001
+Apr-81,13.43,Price ppl,Pence per litre,K02000001
+May-81,12.60,Price ppl,Pence per litre,K02000001
+Jun-81,12.59,Price ppl,Pence per litre,K02000001
+Jul-81,12.97,Price ppl,Pence per litre,K02000001
+Aug-81,13.40,Price ppl,Pence per litre,K02000001
+Sep-81,13.75,Price ppl,Pence per litre,K02000001
+Oct-81,14.32,Price ppl,Pence per litre,K02000001
+Nov-81,14.42,Price ppl,Pence per litre,K02000001
+Dec-81,14.46,Price ppl,Pence per litre,K02000001
+Jan-82,14.48,Price ppl,Pence per litre,K02000001
+Feb-82,14.43,Price ppl,Pence per litre,K02000001
+Mar-82,14.30,Price ppl,Pence per litre,K02000001
+Apr-82,14.41,Price ppl,Pence per litre,K02000001
+May-82,13.76,Price ppl,Pence per litre,K02000001
+Jun-82,13.58,Price ppl,Pence per litre,K02000001
+Jul-82,13.96,Price ppl,Pence per litre,K02000001
+Aug-82,14.38,Price ppl,Pence per litre,K02000001
+Sep-82,14.73,Price ppl,Pence per litre,K02000001
+Oct-82,15.44,Price ppl,Pence per litre,K02000001
+Nov-82,15.50,Price ppl,Pence per litre,K02000001
+Dec-82,15.54,Price ppl,Pence per litre,K02000001
+Jan-83,15.52,Price ppl,Pence per litre,K02000001
+Feb-83,15.56,Price ppl,Pence per litre,K02000001
+Mar-83,15.38,Price ppl,Pence per litre,K02000001
+Apr-83,14.28,Price ppl,Pence per litre,K02000001
+May-83,13.45,Price ppl,Pence per litre,K02000001
+Jun-83,13.45,Price ppl,Pence per litre,K02000001
+Jul-83,13.74,Price ppl,Pence per litre,K02000001
+Aug-83,14.17,Price ppl,Pence per litre,K02000001
+Sep-83,14.62,Price ppl,Pence per litre,K02000001
+Oct-83,15.27,Price ppl,Pence per litre,K02000001
+Nov-83,15.41,Price ppl,Pence per litre,K02000001
+Dec-83,15.45,Price ppl,Pence per litre,K02000001
+Jan-84,15.48,Price ppl,Pence per litre,K02000001
+Feb-84,15.50,Price ppl,Pence per litre,K02000001
+Mar-84,15.31,Price ppl,Pence per litre,K02000001
+Apr-84,13.80,Price ppl,Pence per litre,K02000001
+May-84,12.17,Price ppl,Pence per litre,K02000001
+Jun-84,12.33,Price ppl,Pence per litre,K02000001
+Jul-84,14.27,Price ppl,Pence per litre,K02000001
+Aug-84,15.41,Price ppl,Pence per litre,K02000001
+Sep-84,15.94,Price ppl,Pence per litre,K02000001
+Oct-84,15.80,Price ppl,Pence per litre,K02000001
+Nov-84,15.48,Price ppl,Pence per litre,K02000001
+Dec-84,15.32,Price ppl,Pence per litre,K02000001
+Jan-85,15.36,Price ppl,Pence per litre,K02000001
+Feb-85,15.36,Price ppl,Pence per litre,K02000001
+Mar-85,14.98,Price ppl,Pence per litre,K02000001
+Apr-85,14.28,Price ppl,Pence per litre,K02000001
+May-85,12.71,Price ppl,Pence per litre,K02000001
+Jun-85,12.87,Price ppl,Pence per litre,K02000001
+Jul-85,14.89,Price ppl,Pence per litre,K02000001
+Aug-85,15.22,Price ppl,Pence per litre,K02000001
+Sep-85,16.46,Price ppl,Pence per litre,K02000001
+Oct-85,16.23,Price ppl,Pence per litre,K02000001
+Nov-85,16.19,Price ppl,Pence per litre,K02000001
+Dec-85,15.76,Price ppl,Pence per litre,K02000001
+Jan-86,15.73,Price ppl,Pence per litre,K02000001
+Feb-86,15.47,Price ppl,Pence per litre,K02000001
+Mar-86,15.04,Price ppl,Pence per litre,K02000001
+Apr-86,14.88,Price ppl,Pence per litre,K02000001
+May-86,13.28,Price ppl,Pence per litre,K02000001
+Jun-86,13.42,Price ppl,Pence per litre,K02000001
+Jul-86,15.53,Price ppl,Pence per litre,K02000001
+Aug-86,16.84,Price ppl,Pence per litre,K02000001
+Sep-86,17.21,Price ppl,Pence per litre,K02000001
+Oct-86,16.97,Price ppl,Pence per litre,K02000001
+Nov-86,16.78,Price ppl,Pence per litre,K02000001
+Dec-86,16.48,Price ppl,Pence per litre,K02000001
+Jan-87,16.45,Price ppl,Pence per litre,K02000001
+Feb-87,16.33,Price ppl,Pence per litre,K02000001
+Mar-87,16.05,Price ppl,Pence per litre,K02000001
+Apr-87,15.35,Price ppl,Pence per litre,K02000001
+May-87,13.89,Price ppl,Pence per litre,K02000001
+Jun-87,14.13,Price ppl,Pence per litre,K02000001
+Jul-87,16.22,Price ppl,Pence per litre,K02000001
+Aug-87,17.33,Price ppl,Pence per litre,K02000001
+Sep-87,17.74,Price ppl,Pence per litre,K02000001
+Oct-87,17.45,Price ppl,Pence per litre,K02000001
+Nov-87,17.06,Price ppl,Pence per litre,K02000001
+Dec-87,16.97,Price ppl,Pence per litre,K02000001
+Jan-88,16.75,Price ppl,Pence per litre,K02000001
+Feb-88,16.72,Price ppl,Pence per litre,K02000001
+Mar-88,16.52,Price ppl,Pence per litre,K02000001
+Apr-88,16.68,Price ppl,Pence per litre,K02000001
+May-88,15.05,Price ppl,Pence per litre,K02000001
+Jun-88,15.60,Price ppl,Pence per litre,K02000001
+Jul-88,18.16,Price ppl,Pence per litre,K02000001
+Aug-88,19.45,Price ppl,Pence per litre,K02000001
+Sep-88,19.28,Price ppl,Pence per litre,K02000001
+Oct-88,18.53,Price ppl,Pence per litre,K02000001
+Nov-88,18.31,Price ppl,Pence per litre,K02000001
+Dec-88,17.81,Price ppl,Pence per litre,K02000001
+Jan-89,17.58,Price ppl,Pence per litre,K02000001
+Feb-89,17.61,Price ppl,Pence per litre,K02000001
+Mar-89,17.71,Price ppl,Pence per litre,K02000001
+Apr-89,16.44,Price ppl,Pence per litre,K02000001
+May-89,14.91,Price ppl,Pence per litre,K02000001
+Jun-89,15.65,Price ppl,Pence per litre,K02000001
+Jul-89,20.74,Price ppl,Pence per litre,K02000001
+Aug-89,22.16,Price ppl,Pence per litre,K02000001
+Sep-89,21.89,Price ppl,Pence per litre,K02000001
+Oct-89,21.44,Price ppl,Pence per litre,K02000001
+Nov-89,18.17,Price ppl,Pence per litre,K02000001
+Dec-89,18.24,Price ppl,Pence per litre,K02000001
+Jan-90,18.30,Price ppl,Pence per litre,K02000001
+Feb-90,18.12,Price ppl,Pence per litre,K02000001
+Mar-90,17.91,Price ppl,Pence per litre,K02000001
+Apr-90,16.68,Price ppl,Pence per litre,K02000001
+May-90,14.89,Price ppl,Pence per litre,K02000001
+Jun-90,15.57,Price ppl,Pence per litre,K02000001
+Jul-90,20.83,Price ppl,Pence per litre,K02000001
+Aug-90,21.98,Price ppl,Pence per litre,K02000001
+Sep-90,21.76,Price ppl,Pence per litre,K02000001
+Oct-90,21.20,Price ppl,Pence per litre,K02000001
+Nov-90,18.18,Price ppl,Pence per litre,K02000001
+Dec-90,18.13,Price ppl,Pence per litre,K02000001
+Jan-91,18.98,Price ppl,Pence per litre,K02000001
+Feb-91,18.95,Price ppl,Pence per litre,K02000001
+Mar-91,18.43,Price ppl,Pence per litre,K02000001
+Apr-91,18.04,Price ppl,Pence per litre,K02000001
+May-91,16.22,Price ppl,Pence per litre,K02000001
+Jun-91,16.89,Price ppl,Pence per litre,K02000001
+Jul-91,22.45,Price ppl,Pence per litre,K02000001
+Aug-91,23.99,Price ppl,Pence per litre,K02000001
+Sep-91,23.59,Price ppl,Pence per litre,K02000001
+Oct-91,23.45,Price ppl,Pence per litre,K02000001
+Nov-91,19.98,Price ppl,Pence per litre,K02000001
+Dec-91,19.77,Price ppl,Pence per litre,K02000001
+Jan-92,19.54,Price ppl,Pence per litre,K02000001
+Feb-92,19.52,Price ppl,Pence per litre,K02000001
+Mar-92,19.30,Price ppl,Pence per litre,K02000001
+Apr-92,18.98,Price ppl,Pence per litre,K02000001
+May-92,17.08,Price ppl,Pence per litre,K02000001
+Jun-92,17.54,Price ppl,Pence per litre,K02000001
+Jul-92,23.49,Price ppl,Pence per litre,K02000001
+Aug-92,25.15,Price ppl,Pence per litre,K02000001
+Sep-92,25.04,Price ppl,Pence per litre,K02000001
+Oct-92,24.61,Price ppl,Pence per litre,K02000001
+Nov-92,21.12,Price ppl,Pence per litre,K02000001
+Dec-92,20.99,Price ppl,Pence per litre,K02000001
+Jan-93,20.69,Price ppl,Pence per litre,K02000001
+Feb-93,20.40,Price ppl,Pence per litre,K02000001
+Mar-93,20.21,Price ppl,Pence per litre,K02000001
+Apr-93,20.00,Price ppl,Pence per litre,K02000001
+May-93,18.10,Price ppl,Pence per litre,K02000001
+Jun-93,18.54,Price ppl,Pence per litre,K02000001
+Jul-93,24.54,Price ppl,Pence per litre,K02000001
+Aug-93,26.21,Price ppl,Pence per litre,K02000001
+Sep-93,26.05,Price ppl,Pence per litre,K02000001
+Oct-93,25.60,Price ppl,Pence per litre,K02000001
+Nov-93,21.92,Price ppl,Pence per litre,K02000001
+Dec-93,21.53,Price ppl,Pence per litre,K02000001
+Jan-94,21.04,Price ppl,Pence per litre,K02000001
+Feb-94,20.79,Price ppl,Pence per litre,K02000001
+Mar-94,20.61,Price ppl,Pence per litre,K02000001
+Apr-94,19.31,Price ppl,Pence per litre,K02000001
+May-94,18.92,Price ppl,Pence per litre,K02000001
+Jun-94,20.17,Price ppl,Pence per litre,K02000001
+Jul-94,24.06,Price ppl,Pence per litre,K02000001
+Aug-94,24.27,Price ppl,Pence per litre,K02000001
+Sep-94,24.22,Price ppl,Pence per litre,K02000001
+Oct-94,23.39,Price ppl,Pence per litre,K02000001
+Nov-94 (2),24.34,Price ppl,Pence per litre,K02000001
+Dec-94 (2),24.09,Price ppl,Pence per litre,K02000001
+Jan-95,23.81,Price ppl,Pence per litre,K02000001
+Feb-95,23.59,Price ppl,Pence per litre,K02000001
+Mar-95,23.73,Price ppl,Pence per litre,K02000001
+Apr-95,22.46,Price ppl,Pence per litre,K02000001
+May-95,22.08,Price ppl,Pence per litre,K02000001
+Jun-95,23.60,Price ppl,Pence per litre,K02000001
+Jul-95,26.03,Price ppl,Pence per litre,K02000001
+Aug-95,26.06,Price ppl,Pence per litre,K02000001
+Sep-95,26.10,Price ppl,Pence per litre,K02000001
+Oct-95,26.30,Price ppl,Pence per litre,K02000001
+Nov-95,25.13,Price ppl,Pence per litre,K02000001
+Dec-95,25.06,Price ppl,Pence per litre,K02000001
+Jan-96,24.59,Price ppl,Pence per litre,K02000001
+Feb-96,24.62,Price ppl,Pence per litre,K02000001
+Mar-96,24.93,Price ppl,Pence per litre,K02000001
+Apr-96,23.56,Price ppl,Pence per litre,K02000001
+May-96,22.66,Price ppl,Pence per litre,K02000001
+Jun-96,23.83,Price ppl,Pence per litre,K02000001
+Jul-96,26.69,Price ppl,Pence per litre,K02000001
+Aug-96,26.87,Price ppl,Pence per litre,K02000001
+Sep-96,26.60,Price ppl,Pence per litre,K02000001
+Oct-96,25.62,Price ppl,Pence per litre,K02000001
+Nov-96,24.64,Price ppl,Pence per litre,K02000001
+Dec-96,24.43,Price ppl,Pence per litre,K02000001
+Jan-97,24.10,Price ppl,Pence per litre,K02000001
+Feb-97,23.73,Price ppl,Pence per litre,K02000001
+Mar-97,23.68,Price ppl,Pence per litre,K02000001
+Apr-97,20.50,Price ppl,Pence per litre,K02000001
+May-97,19.56,Price ppl,Pence per litre,K02000001
+Jun-97,20.71,Price ppl,Pence per litre,K02000001
+Jul-97,23.88,Price ppl,Pence per litre,K02000001
+Aug-97,23.69,Price ppl,Pence per litre,K02000001
+Sep-97,22.79,Price ppl,Pence per litre,K02000001
+Oct-97,20.82,Price ppl,Pence per litre,K02000001
+Nov-97,20.39,Price ppl,Pence per litre,K02000001
+Dec-97,20.09,Price ppl,Pence per litre,K02000001
+Jan-98,19.96,Price ppl,Pence per litre,K02000001
+Feb-98,19.77,Price ppl,Pence per litre,K02000001
+Mar-98,19.70,Price ppl,Pence per litre,K02000001
+Apr-98,17.57,Price ppl,Pence per litre,K02000001
+May-98,16.60,Price ppl,Pence per litre,K02000001
+Jun-98,17.66,Price ppl,Pence per litre,K02000001
+Jul-98,20.66,Price ppl,Pence per litre,K02000001
+Aug-98,20.80,Price ppl,Pence per litre,K02000001
+Sep-98,19.98,Price ppl,Pence per litre,K02000001
+Oct-98,20.15,Price ppl,Pence per litre,K02000001
+Nov-98,19.60,Price ppl,Pence per litre,K02000001
+Dec-98,19.23,Price ppl,Pence per litre,K02000001
+Jan-99,19.23,Price ppl,Pence per litre,K02000001
+Feb-99,18.95,Price ppl,Pence per litre,K02000001
+Mar-99,18.90,Price ppl,Pence per litre,K02000001
+Apr-99,17.53,Price ppl,Pence per litre,K02000001
+May-99,16.38,Price ppl,Pence per litre,K02000001
+Jun-99,17.20,Price ppl,Pence per litre,K02000001
+Jul-99,19.76,Price ppl,Pence per litre,K02000001
+Aug-99,19.80,Price ppl,Pence per litre,K02000001
+Sep-99,19.14,Price ppl,Pence per litre,K02000001
+Oct-99,18.09,Price ppl,Pence per litre,K02000001
+Nov-99,17.66,Price ppl,Pence per litre,K02000001
+Dec-99,17.33,Price ppl,Pence per litre,K02000001
+Jan-00,16.77,Price ppl,Pence per litre,K02000001
+Feb-00,16.59,Price ppl,Pence per litre,K02000001
+Mar-00,16.61,Price ppl,Pence per litre,K02000001
+Apr-00,15.26,Price ppl,Pence per litre,K02000001
+May-00,14.62,Price ppl,Pence per litre,K02000001
+Jun-00,15.34,Price ppl,Pence per litre,K02000001
+Jul-00,17.62,Price ppl,Pence per litre,K02000001
+Aug-00,17.92,Price ppl,Pence per litre,K02000001
+Sep-00,17.51,Price ppl,Pence per litre,K02000001
+Oct-00,18.80,Price ppl,Pence per litre,K02000001
+Nov-00,18.59,Price ppl,Pence per litre,K02000001
+Dec-00,18.24,Price ppl,Pence per litre,K02000001
+Jan-01,18.32,Price ppl,Pence per litre,K02000001
+Feb-01,18.18,Price ppl,Pence per litre,K02000001
+Mar-01,17.88,Price ppl,Pence per litre,K02000001
+Apr-01,18.44,Price ppl,Pence per litre,K02000001
+May-01,17.89,Price ppl,Pence per litre,K02000001
+Jun-01,18.69,Price ppl,Pence per litre,K02000001
+Jul-01,20.43,Price ppl,Pence per litre,K02000001
+Aug-01,20.85,Price ppl,Pence per litre,K02000001
+Sep-01,20.69,Price ppl,Pence per litre,K02000001
+Oct-01,20.46,Price ppl,Pence per litre,K02000001
+Nov-01,20.05,Price ppl,Pence per litre,K02000001
+Dec-01,19.59,Price ppl,Pence per litre,K02000001
+Jan-02,18.78,Price ppl,Pence per litre,K02000001
+Feb-02,18.31,Price ppl,Pence per litre,K02000001
+Mar-02,18.00,Price ppl,Pence per litre,K02000001
+Apr-02,15.98,Price ppl,Pence per litre,K02000001
+May-02,14.85,Price ppl,Pence per litre,K02000001
+Jun-02,15.32,Price ppl,Pence per litre,K02000001
+Jul-02,16.40,Price ppl,Pence per litre,K02000001
+Aug-02,16.73,Price ppl,Pence per litre,K02000001
+Sep-02,17.11,Price ppl,Pence per litre,K02000001
+Oct-02,18.13,Price ppl,Pence per litre,K02000001
+Nov-02,18.09,Price ppl,Pence per litre,K02000001
+Dec-02,17.74,Price ppl,Pence per litre,K02000001
+Jan-03,17.67,Price ppl,Pence per litre,K02000001
+Feb-03,17.65,Price ppl,Pence per litre,K02000001
+Mar-03,17.37,Price ppl,Pence per litre,K02000001
+Apr-03,16.84,Price ppl,Pence per litre,K02000001
+May-03,15.99,Price ppl,Pence per litre,K02000001
+Jun-03,16.51,Price ppl,Pence per litre,K02000001
+Jul-03,18.21,Price ppl,Pence per litre,K02000001
+Aug-03,18.95,Price ppl,Pence per litre,K02000001
+Sep-03,19.24,Price ppl,Pence per litre,K02000001
+Oct-03,19.59,Price ppl,Pence per litre,K02000001
+Nov-03,19.82,Price ppl,Pence per litre,K02000001
+Dec-03,19.15,Price ppl,Pence per litre,K02000001
+Jan-04,18.76,Price ppl,Pence per litre,K02000001
+Feb-04,18.68,Price ppl,Pence per litre,K02000001
+Mar-04,18.47,Price ppl,Pence per litre,K02000001
+Apr-04,17.70,Price ppl,Pence per litre,K02000001
+May-04,16.94,Price ppl,Pence per litre,K02000001
+Jun-04,17.28,Price ppl,Pence per litre,K02000001
+Jul-04,18.27,Price ppl,Pence per litre,K02000001
+Aug-04,18.50,Price ppl,Pence per litre,K02000001
+Sep-04,19.48,Price ppl,Pence per litre,K02000001
+Oct-04,19.51,Price ppl,Pence per litre,K02000001
+Nov-04,19.49,Price ppl,Pence per litre,K02000001
+Dec-04,18.93,Price ppl,Pence per litre,K02000001
+Jan-05,18.53,Price ppl,Pence per litre,K02000001
+Feb-05,18.31,Price ppl,Pence per litre,K02000001
+Mar-05,18.32,Price ppl,Pence per litre,K02000001
+Apr-05,17.59,Price ppl,Pence per litre,K02000001
+May-05,17.11,Price ppl,Pence per litre,K02000001
+Jun-05,17.30,Price ppl,Pence per litre,K02000001
+Jul-05,18.06,Price ppl,Pence per litre,K02000001
+Aug-05,18.64,Price ppl,Pence per litre,K02000001
+Sep-05,19.46,Price ppl,Pence per litre,K02000001
+Oct-05,19.71,Price ppl,Pence per litre,K02000001
+Nov-05,19.76,Price ppl,Pence per litre,K02000001
+Dec-05,19.26,Price ppl,Pence per litre,K02000001
+Jan-06,18.65,Price ppl,Pence per litre,K02000001
+Feb-06,18.34,Price ppl,Pence per litre,K02000001
+Mar-06,18.11,Price ppl,Pence per litre,K02000001
+Apr-06,17.34,Price ppl,Pence per litre,K02000001
+May-06,16.82,Price ppl,Pence per litre,K02000001
+Jun-06,16.83,Price ppl,Pence per litre,K02000001
+Jul-06,17.18,Price ppl,Pence per litre,K02000001
+Aug-06,17.60,Price ppl,Pence per litre,K02000001
+Sep-06,18.45,Price ppl,Pence per litre,K02000001
+Oct-06,18.82,Price ppl,Pence per litre,K02000001
+Nov-06,19.00,Price ppl,Pence per litre,K02000001
+Dec-06,18.57,Price ppl,Pence per litre,K02000001
+Jan-07,18.03,Price ppl,Pence per litre,K02000001
+Feb-07,17.81,Price ppl,Pence per litre,K02000001
+Mar-07,17.68,Price ppl,Pence per litre,K02000001
+Apr-07,17.55,Price ppl,Pence per litre,K02000001
+May-07,17.53,Price ppl,Pence per litre,K02000001
+Jun-07,18.08,Price ppl,Pence per litre,K02000001
+Jul-07,19.65,Price ppl,Pence per litre,K02000001
+Aug-07,20.71,Price ppl,Pence per litre,K02000001
+Sep-07,23.14,Price ppl,Pence per litre,K02000001
+Oct-07,26.51,Price ppl,Pence per litre,K02000001
+Nov-07,27.27,Price ppl,Pence per litre,K02000001
+Dec-07,26.60,Price ppl,Pence per litre,K02000001
+Jan-08,25.81,Price ppl,Pence per litre,K02000001
+Feb-08,25.62,Price ppl,Pence per litre,K02000001
+Mar-08,25.73,Price ppl,Pence per litre,K02000001
+Apr-08,24.95,Price ppl,Pence per litre,K02000001
+May-08,24.49,Price ppl,Pence per litre,K02000001
+Jun-08,25.00,Price ppl,Pence per litre,K02000001
+Jul-08,25.82,Price ppl,Pence per litre,K02000001
+Aug-08,26.29,Price ppl,Pence per litre,K02000001
+Sep-08,27.00,Price ppl,Pence per litre,K02000001
+Oct-08,27.36,Price ppl,Pence per litre,K02000001
+Nov-08,27.08,Price ppl,Pence per litre,K02000001
+Dec-08,26.36,Price ppl,Pence per litre,K02000001
+Jan-09,25.56,Price ppl,Pence per litre,K02000001
+Feb-09,24.68,Price ppl,Pence per litre,K02000001
+Mar-09,24.37,Price ppl,Pence per litre,K02000001
+Apr-09,23.25,Price ppl,Pence per litre,K02000001
+May-09,20.60,Price ppl,Pence per litre,K02000001
+Jun-09,22.40,Price ppl,Pence per litre,K02000001
+Jul-09,22.99,Price ppl,Pence per litre,K02000001
+Aug-09,23.26,Price ppl,Pence per litre,K02000001
+Sep-09,24.05,Price ppl,Pence per litre,K02000001
+Oct-09,24.44,Price ppl,Pence per litre,K02000001
+Nov-09,24.87,Price ppl,Pence per litre,K02000001
+Dec-09,24.70,Price ppl,Pence per litre,K02000001
+Jan-10,24.67,Price ppl,Pence per litre,K02000001
+Feb-10,24.19,Price ppl,Pence per litre,K02000001
+Mar-10,24.10,Price ppl,Pence per litre,K02000001
+Apr-10,23.57,Price ppl,Pence per litre,K02000001
+May-10,23.64,Price ppl,Pence per litre,K02000001
+Jun-10,23.85,Price ppl,Pence per litre,K02000001
+Jul-10,24.29,Price ppl,Pence per litre,K02000001
+Aug-10,24.70,Price ppl,Pence per litre,K02000001
+Sep-10,25.25,Price ppl,Pence per litre,K02000001
+Oct-10,25.80,Price ppl,Pence per litre,K02000001
+Nov-10,26.17,Price ppl,Pence per litre,K02000001
+Dec-10,25.99,Price ppl,Pence per litre,K02000001
+Jan-11,25.78,Price ppl,Pence per litre,K02000001
+Feb-11,26.08,Price ppl,Pence per litre,K02000001
+Mar-11,26.56,Price ppl,Pence per litre,K02000001
+Apr-11,26.41,Price ppl,Pence per litre,K02000001
+May-11,26.38,Price ppl,Pence per litre,K02000001
+Jun-11,26.62,Price ppl,Pence per litre,K02000001
+Jul-11,27.21,Price ppl,Pence per litre,K02000001
+Aug-11,27.59,Price ppl,Pence per litre,K02000001
+Sep-11,28.13,Price ppl,Pence per litre,K02000001
+Oct-11,29.09,Price ppl,Pence per litre,K02000001
+Nov-11,29.45,Price ppl,Pence per litre,K02000001
+Dec-11,29.33,Price ppl,Pence per litre,K02000001
+Jan-12,28.97,Price ppl,Pence per litre,K02000001
+Feb-12,28.93,Price ppl,Pence per litre,K02000001
+Mar-12,28.65,Price ppl,Pence per litre,K02000001
+Apr-12,27.83,Price ppl,Pence per litre,K02000001
+May-12,26.94,Price ppl,Pence per litre,K02000001
+Jun-12,26.12,Price ppl,Pence per litre,K02000001
+Jul-12,26.32,Price ppl,Pence per litre,K02000001
+Aug-12,26.58,Price ppl,Pence per litre,K02000001
+Sep-12,27.50,Price ppl,Pence per litre,K02000001
+Oct-12,29.10,Price ppl,Pence per litre,K02000001
+Nov-12,30.03,Price ppl,Pence per litre,K02000001
+Dec-12,30.12,Price ppl,Pence per litre,K02000001
+Jan-13,30.03,Price ppl,Pence per litre,K02000001
+Feb-13,30.07,Price ppl,Pence per litre,K02000001
+Mar-13,30.07,Price ppl,Pence per litre,K02000001
+Apr-13,30.09,Price ppl,Pence per litre,K02000001
+May-13,29.96,Price ppl,Pence per litre,K02000001
+Jun-13,30.71,Price ppl,Pence per litre,K02000001
+Jul-13,31.36,Price ppl,Pence per litre,K02000001
+Aug-13,32.06,Price ppl,Pence per litre,K02000001
+Sep-13,32.96,Price ppl,Pence per litre,K02000001
+Oct-13,33.59,Price ppl,Pence per litre,K02000001
+Nov-13,34.52,Price ppl,Pence per litre,K02000001
+Dec-13,34.22,Price ppl,Pence per litre,K02000001
+Jan-14,33.87,Price ppl,Pence per litre,K02000001
+Feb-14,33.96,Price ppl,Pence per litre,K02000001
+Mar-14,33.71,Price ppl,Pence per litre,K02000001
+Apr-14,33.30,Price ppl,Pence per litre,K02000001
+May-14,32.28,Price ppl,Pence per litre,K02000001
+Jun-14,31.72,Price ppl,Pence per litre,K02000001
+Jul-14,31.60,Price ppl,Pence per litre,K02000001
+Aug-14,31.13,Price ppl,Pence per litre,K02000001
+Sep-14,30.79,Price ppl,Pence per litre,K02000001
+Oct-14,29.75,Price ppl,Pence per litre,K02000001
+Nov-14,28.83,Price ppl,Pence per litre,K02000001
+Dec-14,27.68,Price ppl,Pence per litre,K02000001
+Jan-15,26.46,Price ppl,Pence per litre,K02000001
+Feb-15,26.06,Price ppl,Pence per litre,K02000001
+Mar-15,25.05,Price ppl,Pence per litre,K02000001
+Apr-15,24.69,Price ppl,Pence per litre,K02000001
+May-15,24.14,Price ppl,Pence per litre,K02000001
+Jun-15,23.83,Price ppl,Pence per litre,K02000001
+Jul-15,23.63,Price ppl,Pence per litre,K02000001
+Aug-15,23.43,Price ppl,Pence per litre,K02000001
+Sep-15,23.80,Price ppl,Pence per litre,K02000001
+Oct-15,24.50,Price ppl,Pence per litre,K02000001
+Nov-15,24.24,Price ppl,Pence per litre,K02000001
+Dec-15,23.97,Price ppl,Pence per litre,K02000001
+Jan-16,23.16,Price ppl,Pence per litre,K02000001
+Feb-16,23.01,Price ppl,Pence per litre,K02000001
+Mar-16,22.44,Price ppl,Pence per litre,K02000001
+Apr-16,21.64,Price ppl,Pence per litre,K02000001
+May-16,20.44,Price ppl,Pence per litre,K02000001
+Jun-16,19.95,Price ppl,Pence per litre,K02000001
+Jul-16,20.80,Price ppl,Pence per litre,K02000001
+Aug-16,21.47,Price ppl,Pence per litre,K02000001
+Sep-16,22.70,Price ppl,Pence per litre,K02000001
+Oct-16,24.20,Price ppl,Pence per litre,K02000001
+Nov-16,25.54,Price ppl,Pence per litre,K02000001
+Dec-16,26.22,Price ppl,Pence per litre,K02000001
+Jan-17,26.95,Price ppl,Pence per litre,K02000001
+Feb-17,27.47,Price ppl,Pence per litre,K02000001
+Mar-17,27.48,Price ppl,Pence per litre,K02000001
+Apr-17,26.93,Price ppl,Pence per litre,K02000001
+May-17,26.77,Price ppl,Pence per litre,K02000001
+Jun-17,26.76,Price ppl,Pence per litre,K02000001
+Jul-17,27.88,Price ppl,Pence per litre,K02000001
+Aug-17,29.07,Price ppl,Pence per litre,K02000001
+Sep-17,30.45,Price ppl,Pence per litre,K02000001
+Oct-17,31.81,Price ppl,Pence per litre,K02000001
+Nov-17,31.95,Price ppl,Pence per litre,K02000001
+Dec-17,31.62,Price ppl,Pence per litre,K02000001
+Jan-18,30.36,Price ppl,Pence per litre,K02000001
+Feb-18,29.41,Price ppl,Pence per litre,K02000001
+Mar-18,28.49,Price ppl,Pence per litre,K02000001
+Apr-18,27.40,Price ppl,Pence per litre,K02000001
+May-18,26.79,Price ppl,Pence per litre,K02000001
+Jun-18,27.18,Price ppl,Pence per litre,K02000001
+Jul-18,28.55,Price ppl,Pence per litre,K02000001
+Aug-18,29.67,Price ppl,Pence per litre,K02000001
+Sep-18,30.60,Price ppl,Pence per litre,K02000001
+Oct-18,31.44,Price ppl,Pence per litre,K02000001
+Nov-18,31.60,Price ppl,Pence per litre,K02000001
+Dec-18,30.42,Price ppl,Pence per litre,K02000001
+Jan-19,29.61,Price ppl,Pence per litre,K02000001
+Feb-19,29.35,Price ppl,Pence per litre,K02000001
+Mar-19,28.91,Price ppl,Pence per litre,K02000001
+Apr-19,28.23,Price ppl,Pence per litre,K02000001
+May-19,27.84,Price ppl,Pence per litre,K02000001
+Jun-19,27.99,Price ppl,Pence per litre,K02000001
+Jul-19,28.37,Price ppl,Pence per litre,K02000001
+Aug-19,28.62,Price ppl,Pence per litre,K02000001
+Sep-19,29.21,Price ppl,Pence per litre,K02000001
+Oct-19,29.40,Price ppl,Pence per litre,K02000001
+Nov-19,29.87,Price ppl,Pence per litre,K02000001
+Dec-19,29.41,Price ppl,Pence per litre,K02000001
+Jan-20,28.82,Price ppl,Pence per litre,K02000001
+Feb-20,28.71,Price ppl,Pence per litre,K02000001
+Mar-20,28.57,Price ppl,Pence per litre,K02000001
+Apr-20,27.35,Price ppl,Pence per litre,K02000001
+May-20,26.68,Price ppl,Pence per litre,K02000001
+Jun-20,26.89,Price ppl,Pence per litre,K02000001
+Nov-94 (2),"1,102",Volume (million litres),Million litres,K02000001
+Dec-94 (2),"1,131",Volume (million litres),Million litres,K02000001
+Jan-95,"1,114",Volume (million litres),Million litres,K02000001
+Feb-95,989,Volume (million litres),Million litres,K02000001
+Mar-95,"1,077",Volume (million litres),Million litres,K02000001
+Apr-95,"1,177",Volume (million litres),Million litres,K02000001
+May-95,"1,305",Volume (million litres),Million litres,K02000001
+Jun-95,"1,195",Volume (million litres),Million litres,K02000001
+Jul-95,"1,154",Volume (million litres),Million litres,K02000001
+Aug-95,"1,109",Volume (million litres),Million litres,K02000001
+Sep-95,"1,080",Volume (million litres),Million litres,K02000001
+Oct-95,"1,163",Volume (million litres),Million litres,K02000001
+Nov-95,"1,129",Volume (million litres),Million litres,K02000001
+Dec-95,"1,177",Volume (million litres),Million litres,K02000001
+Jan-96,"1,200",Volume (million litres),Million litres,K02000001
+Feb-96,"1,074",Volume (million litres),Million litres,K02000001
+Mar-96,"1,101",Volume (million litres),Million litres,K02000001
+Apr-96,"1,191",Volume (million litres),Million litres,K02000001
+May-96,"1,310",Volume (million litres),Million litres,K02000001
+Jun-96,"1,217",Volume (million litres),Million litres,K02000001
+Jul-96,"1,156",Volume (million litres),Million litres,K02000001
+Aug-96,"1,113",Volume (million litres),Million litres,K02000001
+Sep-96,"1,078",Volume (million litres),Million litres,K02000001
+Oct-96,"1,076",Volume (million litres),Million litres,K02000001
+Nov-96,"1,030",Volume (million litres),Million litres,K02000001
+Dec-96,"1,106",Volume (million litres),Million litres,K02000001
+Jan-97,"1,148",Volume (million litres),Million litres,K02000001
+Feb-97,"1,064",Volume (million litres),Million litres,K02000001
+Mar-97,"1,200",Volume (million litres),Million litres,K02000001
+Apr-97,"1,257",Volume (million litres),Million litres,K02000001
+May-97,"1,317",Volume (million litres),Million litres,K02000001
+Jun-97,"1,198",Volume (million litres),Million litres,K02000001
+Jul-97,"1,164",Volume (million litres),Million litres,K02000001
+Aug-97,"1,123",Volume (million litres),Million litres,K02000001
+Sep-97,"1,070",Volume (million litres),Million litres,K02000001
+Oct-97,"1,101",Volume (million litres),Million litres,K02000001
+Nov-97,"1,066",Volume (million litres),Million litres,K02000001
+Dec-97,"1,140",Volume (million litres),Million litres,K02000001
+Jan-98,"1,167",Volume (million litres),Million litres,K02000001
+Feb-98,"1,060",Volume (million litres),Million litres,K02000001
+Mar-98,"1,165",Volume (million litres),Million litres,K02000001
+Apr-98,"1,177",Volume (million litres),Million litres,K02000001
+May-98,"1,290",Volume (million litres),Million litres,K02000001
+Jun-98,"1,173",Volume (million litres),Million litres,K02000001
+Jul-98,"1,163",Volume (million litres),Million litres,K02000001
+Aug-98,"1,131",Volume (million litres),Million litres,K02000001
+Sep-98,"1,073",Volume (million litres),Million litres,K02000001
+Oct-98,"1,092",Volume (million litres),Million litres,K02000001
+Nov-98,"1,039",Volume (million litres),Million litres,K02000001
+Dec-98,"1,127",Volume (million litres),Million litres,K02000001
+Jan-99,"1,170",Volume (million litres),Million litres,K02000001
+Feb-99,"1,080",Volume (million litres),Million litres,K02000001
+Mar-99,"1,232",Volume (million litres),Million litres,K02000001
+Apr-99,"1,242",Volume (million litres),Million litres,K02000001
+May-99,"1,339",Volume (million litres),Million litres,K02000001
+Jun-99,"1,215",Volume (million litres),Million litres,K02000001
+Jul-99,"1,212",Volume (million litres),Million litres,K02000001
+Aug-99,"1,161",Volume (million litres),Million litres,K02000001
+Sep-99,"1,105",Volume (million litres),Million litres,K02000001
+Oct-99,"1,102",Volume (million litres),Million litres,K02000001
+Nov-99,"1,062",Volume (million litres),Million litres,K02000001
+Dec-99,"1,119",Volume (million litres),Million litres,K02000001
+Jan-00,"1,149",Volume (million litres),Million litres,K02000001
+Feb-00,"1,076",Volume (million litres),Million litres,K02000001
+Mar-00,"1,148",Volume (million litres),Million litres,K02000001
+Apr-00,"1,177",Volume (million litres),Million litres,K02000001
+May-00,"1,292",Volume (million litres),Million litres,K02000001
+Jun-00,"1,169",Volume (million litres),Million litres,K02000001
+Jul-00,"1,175",Volume (million litres),Million litres,K02000001
+Aug-00,"1,133",Volume (million litres),Million litres,K02000001
+Sep-00,"1,058",Volume (million litres),Million litres,K02000001
+Oct-00,"1,043",Volume (million litres),Million litres,K02000001
+Nov-00,"1,006",Volume (million litres),Million litres,K02000001
+Dec-00,"1,103",Volume (million litres),Million litres,K02000001
+Jan-01,"1,142",Volume (million litres),Million litres,K02000001
+Feb-01,"1,062",Volume (million litres),Million litres,K02000001
+Mar-01,"1,191",Volume (million litres),Million litres,K02000001
+Apr-01,"1,168",Volume (million litres),Million litres,K02000001
+May-01,"1,304",Volume (million litres),Million litres,K02000001
+Jun-01,"1,220",Volume (million litres),Million litres,K02000001
+Jul-01,"1,187",Volume (million litres),Million litres,K02000001
+Aug-01,"1,136",Volume (million litres),Million litres,K02000001
+Sep-01,"1,061",Volume (million litres),Million litres,K02000001
+Oct-01,"1,074",Volume (million litres),Million litres,K02000001
+Nov-01,"1,064",Volume (million litres),Million litres,K02000001
+Dec-01,"1,137",Volume (million litres),Million litres,K02000001
+Jan-02,"1,175",Volume (million litres),Million litres,K02000001
+Feb-02,"1,084",Volume (million litres),Million litres,K02000001
+Mar-02,"1,229",Volume (million litres),Million litres,K02000001
+Apr-02,"1,273",Volume (million litres),Million litres,K02000001
+May-02,"1,354",Volume (million litres),Million litres,K02000001
+Jun-02,"1,215",Volume (million litres),Million litres,K02000001
+Jul-02,"1,199",Volume (million litres),Million litres,K02000001
+Aug-02,"1,139",Volume (million litres),Million litres,K02000001
+Sep-02,"1,071",Volume (million litres),Million litres,K02000001
+Oct-02,"1,076",Volume (million litres),Million litres,K02000001
+Nov-02,"1,025",Volume (million litres),Million litres,K02000001
+Dec-02,"1,105",Volume (million litres),Million litres,K02000001
+Jan-03,"1,141",Volume (million litres),Million litres,K02000001
+Feb-03,"1,049",Volume (million litres),Million litres,K02000001
+Mar-03,"1,214",Volume (million litres),Million litres,K02000001
+Apr-03,"1,271",Volume (million litres),Million litres,K02000001
+May-03,"1,367",Volume (million litres),Million litres,K02000001
+Jun-03,"1,266",Volume (million litres),Million litres,K02000001
+Jul-03,"1,232",Volume (million litres),Million litres,K02000001
+Aug-03,"1,181",Volume (million litres),Million litres,K02000001
+Sep-03,"1,101",Volume (million litres),Million litres,K02000001
+Oct-03,"1,116",Volume (million litres),Million litres,K02000001
+Nov-03,"1,071",Volume (million litres),Million litres,K02000001
+Dec-03,"1,127",Volume (million litres),Million litres,K02000001
+Jan-04,"1,127",Volume (million litres),Million litres,K02000001
+Feb-04,"1,054",Volume (million litres),Million litres,K02000001
+Mar-04,"1,152",Volume (million litres),Million litres,K02000001
+Apr-04,"1,209",Volume (million litres),Million litres,K02000001
+May-04,"1,306",Volume (million litres),Million litres,K02000001
+Jun-04,"1,208",Volume (million litres),Million litres,K02000001
+Jul-04,"1,203",Volume (million litres),Million litres,K02000001
+Aug-04,"1,143",Volume (million litres),Million litres,K02000001
+Sep-04,"1,074",Volume (million litres),Million litres,K02000001
+Oct-04,"1,074",Volume (million litres),Million litres,K02000001
+Nov-04,"1,045",Volume (million litres),Million litres,K02000001
+Dec-04,"1,115",Volume (million litres),Million litres,K02000001
+Jan-05,"1,142",Volume (million litres),Million litres,K02000001
+Feb-05,"1,051",Volume (million litres),Million litres,K02000001
+Mar-05,"1,198",Volume (million litres),Million litres,K02000001
+Apr-05,"1,206",Volume (million litres),Million litres,K02000001
+May-05,"1,279",Volume (million litres),Million litres,K02000001
+Jun-05,"1,187",Volume (million litres),Million litres,K02000001
+Jul-05,"1,163",Volume (million litres),Million litres,K02000001
+Aug-05,"1,136",Volume (million litres),Million litres,K02000001
+Sep-05,"1,067",Volume (million litres),Million litres,K02000001
+Oct-05,"1,077",Volume (million litres),Million litres,K02000001
+Nov-05,"1,030",Volume (million litres),Million litres,K02000001
+Dec-05,"1,098",Volume (million litres),Million litres,K02000001
+Jan-06,"1,134",Volume (million litres),Million litres,K02000001
+Feb-06,"1,045",Volume (million litres),Million litres,K02000001
+Mar-06,"1,178",Volume (million litres),Million litres,K02000001
+Apr-06,"1,191",Volume (million litres),Million litres,K02000001
+May-06,"1,275",Volume (million litres),Million litres,K02000001
+Jun-06,"1,178",Volume (million litres),Million litres,K02000001
+Jul-06,"1,155",Volume (million litres),Million litres,K02000001
+Aug-06,"1,103",Volume (million litres),Million litres,K02000001
+Sep-06,"1,059",Volume (million litres),Million litres,K02000001
+Oct-06,"1,072",Volume (million litres),Million litres,K02000001
+Nov-06,"1,032",Volume (million litres),Million litres,K02000001
+Dec-06,"1,095",Volume (million litres),Million litres,K02000001
+Jan-07,"1,130",Volume (million litres),Million litres,K02000001
+Feb-07,"1,020",Volume (million litres),Million litres,K02000001
+Mar-07,"1,170",Volume (million litres),Million litres,K02000001
+Apr-07,"1,204",Volume (million litres),Million litres,K02000001
+May-07,"1,258",Volume (million litres),Million litres,K02000001
+Jun-07,"1,147",Volume (million litres),Million litres,K02000001
+Jul-07,"1,098",Volume (million litres),Million litres,K02000001
+Aug-07,"1,074",Volume (million litres),Million litres,K02000001
+Sep-07,"1,027",Volume (million litres),Million litres,K02000001
+Oct-07,"1,042",Volume (million litres),Million litres,K02000001
+Nov-07,"1,014",Volume (million litres),Million litres,K02000001
+Dec-07,"1,069",Volume (million litres),Million litres,K02000001
+Jan-08,"1,101",Volume (million litres),Million litres,K02000001
+Feb-08,"1,044",Volume (million litres),Million litres,K02000001
+Mar-08,"1,137",Volume (million litres),Million litres,K02000001
+Apr-08,"1,139",Volume (million litres),Million litres,K02000001
+May-08,"1,226",Volume (million litres),Million litres,K02000001
+Jun-08,"1,127",Volume (million litres),Million litres,K02000001
+Jul-08,"1,115",Volume (million litres),Million litres,K02000001
+Aug-08,"1,057",Volume (million litres),Million litres,K02000001
+Sep-08,973,Volume (million litres),Million litres,K02000001
+Oct-08,"1,015",Volume (million litres),Million litres,K02000001
+Nov-08,983,Volume (million litres),Million litres,K02000001
+Dec-08,"1,048",Volume (million litres),Million litres,K02000001
+Jan-09,"1,071",Volume (million litres),Million litres,K02000001
+Feb-09,981,Volume (million litres),Million litres,K02000001
+Mar-09,"1,122",Volume (million litres),Million litres,K02000001
+Apr-09,"1,144",Volume (million litres),Million litres,K02000001
+May-09,"1,203",Volume (million litres),Million litres,K02000001
+Jun-09,"1,130",Volume (million litres),Million litres,K02000001
+Jul-09,"1,101",Volume (million litres),Million litres,K02000001
+Aug-09,"1,053",Volume (million litres),Million litres,K02000001
+Sep-09,994,Volume (million litres),Million litres,K02000001
+Oct-09,"1,024",Volume (million litres),Million litres,K02000001
+Nov-09,985,Volume (million litres),Million litres,K02000001
+Dec-09,"1,047",Volume (million litres),Million litres,K02000001
+Jan-10,"1,051",Volume (million litres),Million litres,K02000001
+Feb-10,978,Volume (million litres),Million litres,K02000001
+Mar-10,"1,116",Volume (million litres),Million litres,K02000001
+Apr-10,"1,133",Volume (million litres),Million litres,K02000001
+May-10,"1,243",Volume (million litres),Million litres,K02000001
+Jun-10,"1,179",Volume (million litres),Million litres,K02000001
+Jul-10,"1,141",Volume (million litres),Million litres,K02000001
+Aug-10,"1,109",Volume (million litres),Million litres,K02000001
+Sep-10,"1,065",Volume (million litres),Million litres,K02000001
+Oct-10,"1,076",Volume (million litres),Million litres,K02000001
+Nov-10,"1,028",Volume (million litres),Million litres,K02000001
+Dec-10,"1,072",Volume (million litres),Million litres,K02000001
+Jan-11,"1,096",Volume (million litres),Million litres,K02000001
+Feb-11,"1,023",Volume (million litres),Million litres,K02000001
+Mar-11,"1,167",Volume (million litres),Million litres,K02000001
+Apr-11,"1,191",Volume (million litres),Million litres,K02000001
+May-11,"1,253",Volume (million litres),Million litres,K02000001
+Jun-11,"1,172",Volume (million litres),Million litres,K02000001
+Jul-11,"1,161",Volume (million litres),Million litres,K02000001
+Aug-11,"1,105",Volume (million litres),Million litres,K02000001
+Sep-11,"1,042",Volume (million litres),Million litres,K02000001
+Oct-11,"1,062",Volume (million litres),Million litres,K02000001
+Nov-11,"1,035",Volume (million litres),Million litres,K02000001
+Dec-11,"1,098",Volume (million litres),Million litres,K02000001
+Jan-12,"1,118",Volume (million litres),Million litres,K02000001
+Feb-12,"1,057",Volume (million litres),Million litres,K02000001
+Mar-12,"1,198",Volume (million litres),Million litres,K02000001
+Apr-12,"1,204",Volume (million litres),Million litres,K02000001
+May-12,"1,252",Volume (million litres),Million litres,K02000001
+Jun-12,"1,186",Volume (million litres),Million litres,K02000001
+Jul-12,"1,116",Volume (million litres),Million litres,K02000001
+Aug-12,"1,063",Volume (million litres),Million litres,K02000001
+Sep-12,997,Volume (million litres),Million litres,K02000001
+Oct-12,994,Volume (million litres),Million litres,K02000001
+Nov-12,974,Volume (million litres),Million litres,K02000001
+Dec-12,"1,039",Volume (million litres),Million litres,K02000001
+Jan-13,"1,059",Volume (million litres),Million litres,K02000001
+Feb-13,978,Volume (million litres),Million litres,K02000001
+Mar-13,"1,112",Volume (million litres),Million litres,K02000001
+Apr-13,"1,112",Volume (million litres),Million litres,K02000001
+May-13,"1,234",Volume (million litres),Million litres,K02000001
+Jun-13,"1,177",Volume (million litres),Million litres,K02000001
+Jul-13,"1,144",Volume (million litres),Million litres,K02000001
+Aug-13,"1,116",Volume (million litres),Million litres,K02000001
+Sep-13,"1,063",Volume (million litres),Million litres,K02000001
+Oct-13,"1,088",Volume (million litres),Million litres,K02000001
+Nov-13,"1,067",Volume (million litres),Million litres,K02000001
+Dec-13,"1,144",Volume (million litres),Million litres,K02000001
+Jan-14,"1,179",Volume (million litres),Million litres,K02000001
+Feb-14,"1,099",Volume (million litres),Million litres,K02000001
+Mar-14,"1,257",Volume (million litres),Million litres,K02000001
+Apr-14,"1,279",Volume (million litres),Million litres,K02000001
+May-14,"1,333",Volume (million litres),Million litres,K02000001
+Jun-14,"1,241",Volume (million litres),Million litres,K02000001
+Jul-14,"1,225",Volume (million litres),Million litres,K02000001
+Aug-14,"1,178",Volume (million litres),Million litres,K02000001
+Sep-14,"1,147",Volume (million litres),Million litres,K02000001
+Oct-14,"1,157",Volume (million litres),Million litres,K02000001
+Nov-14,"1,120",Volume (million litres),Million litres,K02000001
+Dec-14,"1,156",Volume (million litres),Million litres,K02000001
+Jan-15,"1,194",Volume (million litres),Million litres,K02000001
+Feb-15,"1,101",Volume (million litres),Million litres,K02000001
+Mar-15,"1,262",Volume (million litres),Million litres,K02000001
+Apr-15,"1,293",Volume (million litres),Million litres,K02000001
+May-15,"1,380",Volume (million litres),Million litres,K02000001
+Jun-15,"1,302",Volume (million litres),Million litres,K02000001
+Jul-15,"1,267",Volume (million litres),Million litres,K02000001
+Aug-15,"1,211",Volume (million litres),Million litres,K02000001
+Sep-15,"1,166",Volume (million litres),Million litres,K02000001
+Oct-15,"1,204",Volume (million litres),Million litres,K02000001
+Nov-15,"1,164",Volume (million litres),Million litres,K02000001
+Dec-15,"1,210",Volume (million litres),Million litres,K02000001
+Jan-16,"1,225",Volume (million litres),Million litres,K02000001
+Feb-16,"1,148",Volume (million litres),Million litres,K02000001
+Mar-16,"1,260",Volume (million litres),Million litres,K02000001
+Apr-16,"1,251",Volume (million litres),Million litres,K02000001
+May-16,"1,321",Volume (million litres),Million litres,K02000001
+Jun-16,"1,208",Volume (million litres),Million litres,K02000001
+Jul-16,"1,165",Volume (million litres),Million litres,K02000001
+Aug-16,"1,126",Volume (million litres),Million litres,K02000001
+Sep-16,"1,078",Volume (million litres),Million litres,K02000001
+Oct-16,"1,109",Volume (million litres),Million litres,K02000001
+Nov-16,"1,078",Volume (million litres),Million litres,K02000001
+Dec-16,"1,154",Volume (million litres),Million litres,K02000001
+Jan-17,"1,216",Volume (million litres),Million litres,K02000001
+Feb-17,"1,118",Volume (million litres),Million litres,K02000001
+Mar-17,"1,284",Volume (million litres),Million litres,K02000001
+Apr-17,"1,297",Volume (million litres),Million litres,K02000001
+May-17,"1,363",Volume (million litres),Million litres,K02000001
+Jun-17,"1,266",Volume (million litres),Million litres,K02000001
+Jul-17,"1,222",Volume (million litres),Million litres,K02000001
+Aug-17,"1,205",Volume (million litres),Million litres,K02000001
+Sep-17,"1,156",Volume (million litres),Million litres,K02000001
+Oct-17,"1,191",Volume (million litres),Million litres,K02000001
+Nov-17,"1,171",Volume (million litres),Million litres,K02000001
+Dec-17,"1,219",Volume (million litres),Million litres,K02000001
+Jan-18,"1,234",Volume (million litres),Million litres,K02000001
+Feb-18,"1,127",Volume (million litres),Million litres,K02000001
+Mar-18,"1,268",Volume (million litres),Million litres,K02000001
+Apr-18,"1,285",Volume (million litres),Million litres,K02000001
+May-18,"1,372",Volume (million litres),Million litres,K02000001
+Jun-18,"1,269",Volume (million litres),Million litres,K02000001
+Jul-18,"1,230",Volume (million litres),Million litres,K02000001
+Aug-18,"1,196",Volume (million litres),Million litres,K02000001
+Sep-18,"1,154",Volume (million litres),Million litres,K02000001
+Oct-18,"1,200",Volume (million litres),Million litres,K02000001
+Nov-18,"1,174",Volume (million litres),Million litres,K02000001
+Dec-18,"1,241",Volume (million litres),Million litres,K02000001
+Jan-19,"1,266",Volume (million litres),Million litres,K02000001
+Feb-19,"1,156",Volume (million litres),Million litres,K02000001
+Mar-19,"1,329",Volume (million litres),Million litres,K02000001
+Apr-19,"1,339",Volume (million litres),Million litres,K02000001
+May-19,"1,395",Volume (million litres),Million litres,K02000001
+Jun-19,"1,288",Volume (million litres),Million litres,K02000001
+Jul-19,"1,266",Volume (million litres),Million litres,K02000001
+Aug-19,"1,206",Volume (million litres),Million litres,K02000001
+Sep-19,"1,157",Volume (million litres),Million litres,K02000001
+Oct-19,"1,192",Volume (million litres),Million litres,K02000001
+Nov-19,"1,163",Volume (million litres),Million litres,K02000001
+Dec-19,"1,226",Volume (million litres),Million litres,K02000001
+Jan-20,"1,246",Volume (million litres),Million litres,K02000001
+Feb-20,"1,179",Volume (million litres),Million litres,K02000001
+Mar-20,"1,305",Volume (million litres),Million litres,K02000001
+Apr-20,"1,326",Volume (million litres),Million litres,K02000001
+May-20,"1,382",Volume (million litres),Million litres,K02000001
+Jun-20,"1,290",Volume (million litres),Million litres,K02000001
+Apr-94,4.08,Butterfat (%),Percentage,K02000001
+May-94,3.96,Butterfat (%),Percentage,K02000001
+Jun-94,3.89,Butterfat (%),Percentage,K02000001
+Jul-94,3.96,Butterfat (%),Percentage,K02000001
+Aug-94,4.01,Butterfat (%),Percentage,K02000001
+Sep-94,4.19,Butterfat (%),Percentage,K02000001
+Oct-94,4.23,Butterfat (%),Percentage,K02000001
+Nov-94 (2),4.15,Butterfat (%),Percentage,K02000001
+Dec-94 (2),4.12,Butterfat (%),Percentage,K02000001
+Jan-95,4.14,Butterfat (%),Percentage,K02000001
+Feb-95,4.08,Butterfat (%),Percentage,K02000001
+Mar-95,4.12,Butterfat (%),Percentage,K02000001
+Apr-95,4.07,Butterfat (%),Percentage,K02000001
+May-95,3.92,Butterfat (%),Percentage,K02000001
+Jun-95,3.95,Butterfat (%),Percentage,K02000001
+Jul-95,3.92,Butterfat (%),Percentage,K02000001
+Aug-95,3.92,Butterfat (%),Percentage,K02000001
+Sep-95,4.07,Butterfat (%),Percentage,K02000001
+Oct-95,4.15,Butterfat (%),Percentage,K02000001
+Nov-95,4.17,Butterfat (%),Percentage,K02000001
+Dec-95,4.15,Butterfat (%),Percentage,K02000001
+Jan-96,4.11,Butterfat (%),Percentage,K02000001
+Feb-96,4.13,Butterfat (%),Percentage,K02000001
+Mar-96,4.13,Butterfat (%),Percentage,K02000001
+Apr-96,4.09,Butterfat (%),Percentage,K02000001
+May-96,3.98,Butterfat (%),Percentage,K02000001
+Jun-96,3.94,Butterfat (%),Percentage,K02000001
+Jul-96,3.97,Butterfat (%),Percentage,K02000001
+Aug-96,4.03,Butterfat (%),Percentage,K02000001
+Sep-96,4.07,Butterfat (%),Percentage,K02000001
+Oct-96,4.17,Butterfat (%),Percentage,K02000001
+Nov-96,4.19,Butterfat (%),Percentage,K02000001
+Dec-96,4.22,Butterfat (%),Percentage,K02000001
+Jan-97,4.17,Butterfat (%),Percentage,K02000001
+Feb-97,4.12,Butterfat (%),Percentage,K02000001
+Mar-97,4.08,Butterfat (%),Percentage,K02000001
+Apr-97,4.06,Butterfat (%),Percentage,K02000001
+May-97,4.00,Butterfat (%),Percentage,K02000001
+Jun-97,3.98,Butterfat (%),Percentage,K02000001
+Jul-97,3.97,Butterfat (%),Percentage,K02000001
+Aug-97,3.97,Butterfat (%),Percentage,K02000001
+Sep-97,4.06,Butterfat (%),Percentage,K02000001
+Oct-97,4.16,Butterfat (%),Percentage,K02000001
+Nov-97,4.17,Butterfat (%),Percentage,K02000001
+Dec-97,4.13,Butterfat (%),Percentage,K02000001
+Jan-98,4.12,Butterfat (%),Percentage,K02000001
+Feb-98,4.09,Butterfat (%),Percentage,K02000001
+Mar-98,4.10,Butterfat (%),Percentage,K02000001
+Apr-98,4.14,Butterfat (%),Percentage,K02000001
+May-98,3.99,Butterfat (%),Percentage,K02000001
+Jun-98,4.00,Butterfat (%),Percentage,K02000001
+Jul-98,3.95,Butterfat (%),Percentage,K02000001
+Aug-98,3.97,Butterfat (%),Percentage,K02000001
+Sep-98,4.07,Butterfat (%),Percentage,K02000001
+Oct-98,4.15,Butterfat (%),Percentage,K02000001
+Nov-98,4.15,Butterfat (%),Percentage,K02000001
+Dec-98,4.12,Butterfat (%),Percentage,K02000001
+Jan-99,4.08,Butterfat (%),Percentage,K02000001
+Feb-99,4.07,Butterfat (%),Percentage,K02000001
+Mar-99,4.06,Butterfat (%),Percentage,K02000001
+Apr-99,4.06,Butterfat (%),Percentage,K02000001
+May-99,3.92,Butterfat (%),Percentage,K02000001
+Jun-99,3.90,Butterfat (%),Percentage,K02000001
+Jul-99,3.88,Butterfat (%),Percentage,K02000001
+Aug-99,3.94,Butterfat (%),Percentage,K02000001
+Sep-99,4.02,Butterfat (%),Percentage,K02000001
+Oct-99,4.15,Butterfat (%),Percentage,K02000001
+Nov-99,4.17,Butterfat (%),Percentage,K02000001
+Dec-99,4.14,Butterfat (%),Percentage,K02000001
+Jan-00,4.08,Butterfat (%),Percentage,K02000001
+Feb-00,4.04,Butterfat (%),Percentage,K02000001
+Mar-00,4.03,Butterfat (%),Percentage,K02000001
+Apr-00,4.06,Butterfat (%),Percentage,K02000001
+May-00,3.91,Butterfat (%),Percentage,K02000001
+Jun-00,3.90,Butterfat (%),Percentage,K02000001
+Jul-00,3.86,Butterfat (%),Percentage,K02000001
+Aug-00,3.92,Butterfat (%),Percentage,K02000001
+Sep-00,4.04,Butterfat (%),Percentage,K02000001
+Oct-00,4.15,Butterfat (%),Percentage,K02000001
+Nov-00,4.16,Butterfat (%),Percentage,K02000001
+Dec-00,4.08,Butterfat (%),Percentage,K02000001
+Jan-01,4.06,Butterfat (%),Percentage,K02000001
+Feb-01,4.02,Butterfat (%),Percentage,K02000001
+Mar-01,4.06,Butterfat (%),Percentage,K02000001
+Apr-01,4.05,Butterfat (%),Percentage,K02000001
+May-01,3.85,Butterfat (%),Percentage,K02000001
+Jun-01,3.84,Butterfat (%),Percentage,K02000001
+Jul-01,3.86,Butterfat (%),Percentage,K02000001
+Aug-01,3.90,Butterfat (%),Percentage,K02000001
+Sep-01,4.01,Butterfat (%),Percentage,K02000001
+Oct-01,4.11,Butterfat (%),Percentage,K02000001
+Nov-01,4.12,Butterfat (%),Percentage,K02000001
+Dec-01,4.11,Butterfat (%),Percentage,K02000001
+Jan-02,4.07,Butterfat (%),Percentage,K02000001
+Feb-02,4.03,Butterfat (%),Percentage,K02000001
+Mar-02,4.05,Butterfat (%),Percentage,K02000001
+Apr-02,3.99,Butterfat (%),Percentage,K02000001
+May-02,3.89,Butterfat (%),Percentage,K02000001
+Jun-02,3.89,Butterfat (%),Percentage,K02000001
+Jul-02,3.84,Butterfat (%),Percentage,K02000001
+Aug-02,3.86,Butterfat (%),Percentage,K02000001
+Sep-02,3.95,Butterfat (%),Percentage,K02000001
+Oct-02,4.08,Butterfat (%),Percentage,K02000001
+Nov-02,4.12,Butterfat (%),Percentage,K02000001
+Dec-02,4.08,Butterfat (%),Percentage,K02000001
+Jan-03,4.02,Butterfat (%),Percentage,K02000001
+Feb-03,4.02,Butterfat (%),Percentage,K02000001
+Mar-03,3.98,Butterfat (%),Percentage,K02000001
+Apr-03,3.89,Butterfat (%),Percentage,K02000001
+May-03,3.82,Butterfat (%),Percentage,K02000001
+Jun-03,3.79,Butterfat (%),Percentage,K02000001
+Jul-03,3.83,Butterfat (%),Percentage,K02000001
+Aug-03,3.87,Butterfat (%),Percentage,K02000001
+Sep-03,4.02,Butterfat (%),Percentage,K02000001
+Oct-03,4.14,Butterfat (%),Percentage,K02000001
+Nov-03,4.18,Butterfat (%),Percentage,K02000001
+Dec-03,4.11,Butterfat (%),Percentage,K02000001
+Jan-04,4.02,Butterfat (%),Percentage,K02000001
+Feb-04,4.00,Butterfat (%),Percentage,K02000001
+Mar-04,4.05,Butterfat (%),Percentage,K02000001
+Apr-04,4.00,Butterfat (%),Percentage,K02000001
+May-04,3.81,Butterfat (%),Percentage,K02000001
+Jun-04,3.81,Butterfat (%),Percentage,K02000001
+Jul-04,3.87,Butterfat (%),Percentage,K02000001
+Aug-04,3.89,Butterfat (%),Percentage,K02000001
+Sep-04,4.05,Butterfat (%),Percentage,K02000001
+Oct-04,4.16,Butterfat (%),Percentage,K02000001
+Nov-04,4.15,Butterfat (%),Percentage,K02000001
+Dec-04,4.11,Butterfat (%),Percentage,K02000001
+Jan-05,4.10,Butterfat (%),Percentage,K02000001
+Feb-05,4.08,Butterfat (%),Percentage,K02000001
+Mar-05,4.10,Butterfat (%),Percentage,K02000001
+Apr-05,4.02,Butterfat (%),Percentage,K02000001
+May-05,3.87,Butterfat (%),Percentage,K02000001
+Jun-05,3.86,Butterfat (%),Percentage,K02000001
+Jul-05,3.90,Butterfat (%),Percentage,K02000001
+Aug-05,3.93,Butterfat (%),Percentage,K02000001
+Sep-05,4.04,Butterfat (%),Percentage,K02000001
+Oct-05,4.11,Butterfat (%),Percentage,K02000001
+Nov-05,4.16,Butterfat (%),Percentage,K02000001
+Dec-05,4.15,Butterfat (%),Percentage,K02000001
+Jan-06,4.10,Butterfat (%),Percentage,K02000001
+Feb-06,4.06,Butterfat (%),Percentage,K02000001
+Mar-06,4.10,Butterfat (%),Percentage,K02000001
+Apr-06,4.09,Butterfat (%),Percentage,K02000001
+May-06,3.93,Butterfat (%),Percentage,K02000001
+Jun-06,3.83,Butterfat (%),Percentage,K02000001
+Jul-06,3.84,Butterfat (%),Percentage,K02000001
+Aug-06,3.97,Butterfat (%),Percentage,K02000001
+Sep-06,4.06,Butterfat (%),Percentage,K02000001
+Oct-06,4.13,Butterfat (%),Percentage,K02000001
+Nov-06,4.17,Butterfat (%),Percentage,K02000001
+Dec-06,4.19,Butterfat (%),Percentage,K02000001
+Jan-07,4.13,Butterfat (%),Percentage,K02000001
+Feb-07,4.08,Butterfat (%),Percentage,K02000001
+Mar-07,4.10,Butterfat (%),Percentage,K02000001
+Apr-07,4.02,Butterfat (%),Percentage,K02000001
+May-07,3.92,Butterfat (%),Percentage,K02000001
+Jun-07,3.89,Butterfat (%),Percentage,K02000001
+Jul-07,3.93,Butterfat (%),Percentage,K02000001
+Aug-07,3.97,Butterfat (%),Percentage,K02000001
+Sep-07,4.06,Butterfat (%),Percentage,K02000001
+Oct-07,4.17,Butterfat (%),Percentage,K02000001
+Nov-07,4.23,Butterfat (%),Percentage,K02000001
+Dec-07,4.20,Butterfat (%),Percentage,K02000001
+Jan-08,4.13,Butterfat (%),Percentage,K02000001
+Feb-08,4.10,Butterfat (%),Percentage,K02000001
+Mar-08,4.13,Butterfat (%),Percentage,K02000001
+Apr-08,4.09,Butterfat (%),Percentage,K02000001
+May-08,3.90,Butterfat (%),Percentage,K02000001
+Jun-08,3.92,Butterfat (%),Percentage,K02000001
+Jul-08,3.87,Butterfat (%),Percentage,K02000001
+Aug-08,4.02,Butterfat (%),Percentage,K02000001
+Sep-08,4.11,Butterfat (%),Percentage,K02000001
+Oct-08,4.16,Butterfat (%),Percentage,K02000001
+Nov-08,4.19,Butterfat (%),Percentage,K02000001
+Dec-08,4.19,Butterfat (%),Percentage,K02000001
+Jan-09,4.14,Butterfat (%),Percentage,K02000001
+Feb-09,4.12,Butterfat (%),Percentage,K02000001
+Mar-09,4.10,Butterfat (%),Percentage,K02000001
+Apr-09,4.04,Butterfat (%),Percentage,K02000001
+May-09,3.93,Butterfat (%),Percentage,K02000001
+Jun-09,3.78,Butterfat (%),Percentage,K02000001
+Jul-09,3.83,Butterfat (%),Percentage,K02000001
+Aug-09,3.90,Butterfat (%),Percentage,K02000001
+Sep-09,4.00,Butterfat (%),Percentage,K02000001
+Oct-09,4.04,Butterfat (%),Percentage,K02000001
+Nov-09,4.08,Butterfat (%),Percentage,K02000001
+Dec-09,4.10,Butterfat (%),Percentage,K02000001
+Jan-10,4.11,Butterfat (%),Percentage,K02000001
+Feb-10,4.07,Butterfat (%),Percentage,K02000001
+Mar-10,4.04,Butterfat (%),Percentage,K02000001
+Apr-10,3.94,Butterfat (%),Percentage,K02000001
+May-10,3.80,Butterfat (%),Percentage,K02000001
+Jun-10,3.76,Butterfat (%),Percentage,K02000001
+Jul-10,3.82,Butterfat (%),Percentage,K02000001
+Aug-10,3.85,Butterfat (%),Percentage,K02000001
+Sep-10,3.92,Butterfat (%),Percentage,K02000001
+Oct-10,4.03,Butterfat (%),Percentage,K02000001
+Nov-10,4.11,Butterfat (%),Percentage,K02000001
+Dec-10,4.15,Butterfat (%),Percentage,K02000001
+Jan-11,4.03,Butterfat (%),Percentage,K02000001
+Feb-11,3.99,Butterfat (%),Percentage,K02000001
+Mar-11,4.08,Butterfat (%),Percentage,K02000001
+Apr-11,4.02,Butterfat (%),Percentage,K02000001
+May-11,3.90,Butterfat (%),Percentage,K02000001
+Jun-11,3.94,Butterfat (%),Percentage,K02000001
+Jul-11,3.92,Butterfat (%),Percentage,K02000001
+Aug-11,4.00,Butterfat (%),Percentage,K02000001
+Sep-11,4.10,Butterfat (%),Percentage,K02000001
+Oct-11,4.13,Butterfat (%),Percentage,K02000001
+Nov-11,4.18,Butterfat (%),Percentage,K02000001
+Dec-11,4.20,Butterfat (%),Percentage,K02000001
+Jan-12,4.14,Butterfat (%),Percentage,K02000001
+Feb-12,4.13,Butterfat (%),Percentage,K02000001
+Mar-12,4.10,Butterfat (%),Percentage,K02000001
+Apr-12,4.06,Butterfat (%),Percentage,K02000001
+May-12,3.97,Butterfat (%),Percentage,K02000001
+Jun-12,3.93,Butterfat (%),Percentage,K02000001
+Jul-12,3.94,Butterfat (%),Percentage,K02000001
+Aug-12,4.00,Butterfat (%),Percentage,K02000001
+Sep-12,4.11,Butterfat (%),Percentage,K02000001
+Oct-12,4.19,Butterfat (%),Percentage,K02000001
+Nov-12,4.20,Butterfat (%),Percentage,K02000001
+Dec-12,4.18,Butterfat (%),Percentage,K02000001
+Jan-13,4.11,Butterfat (%),Percentage,K02000001
+Feb-13,4.13,Butterfat (%),Percentage,K02000001
+Mar-13,4.13,Butterfat (%),Percentage,K02000001
+Apr-13,4.10,Butterfat (%),Percentage,K02000001
+May-13,3.91,Butterfat (%),Percentage,K02000001
+Jun-13,3.84,Butterfat (%),Percentage,K02000001
+Jul-13,3.82,Butterfat (%),Percentage,K02000001
+Aug-13,3.92,Butterfat (%),Percentage,K02000001
+Sep-13,4.06,Butterfat (%),Percentage,K02000001
+Oct-13,4.08,Butterfat (%),Percentage,K02000001
+Nov-13,4.18,Butterfat (%),Percentage,K02000001
+Dec-13,4.12,Butterfat (%),Percentage,K02000001
+Jan-14,4.07,Butterfat (%),Percentage,K02000001
+Feb-14,4.07,Butterfat (%),Percentage,K02000001
+Mar-14,4.06,Butterfat (%),Percentage,K02000001
+Apr-14,4.01,Butterfat (%),Percentage,K02000001
+May-14,3.90,Butterfat (%),Percentage,K02000001
+Jun-14,3.84,Butterfat (%),Percentage,K02000001
+Jul-14,3.84,Butterfat (%),Percentage,K02000001
+Aug-14,3.92,Butterfat (%),Percentage,K02000001
+Sep-14,3.97,Butterfat (%),Percentage,K02000001
+Oct-14,4.08,Butterfat (%),Percentage,K02000001
+Nov-14,4.11,Butterfat (%),Percentage,K02000001
+Dec-14,4.10,Butterfat (%),Percentage,K02000001
+Jan-15,4.07,Butterfat (%),Percentage,K02000001
+Feb-15,4.09,Butterfat (%),Percentage,K02000001
+Mar-15,4.10,Butterfat (%),Percentage,K02000001
+Apr-15,4.02,Butterfat (%),Percentage,K02000001
+May-15,3.91,Butterfat (%),Percentage,K02000001
+Jun-15,3.90,Butterfat (%),Percentage,K02000001
+Jul-15,3.83,Butterfat (%),Percentage,K02000001
+Aug-15,3.99,Butterfat (%),Percentage,K02000001
+Sep-15,4.03,Butterfat (%),Percentage,K02000001
+Oct-15,4.12,Butterfat (%),Percentage,K02000001
+Nov-15,4.15,Butterfat (%),Percentage,K02000001
+Dec-15,4.13,Butterfat (%),Percentage,K02000001
+Jan-16,4.15,Butterfat (%),Percentage,K02000001
+Feb-16,4.18,Butterfat (%),Percentage,K02000001
+Mar-16,4.20,Butterfat (%),Percentage,K02000001
+Apr-16,4.16,Butterfat (%),Percentage,K02000001
+May-16,3.99,Butterfat (%),Percentage,K02000001
+Jun-16,3.94,Butterfat (%),Percentage,K02000001
+Jul-16,3.94,Butterfat (%),Percentage,K02000001
+Aug-16,3.98,Butterfat (%),Percentage,K02000001
+Sep-16,4.09,Butterfat (%),Percentage,K02000001
+Oct-16,4.18,Butterfat (%),Percentage,K02000001
+Nov-16,4.25,Butterfat (%),Percentage,K02000001
+Dec-16,4.19,Butterfat (%),Percentage,K02000001
+Jan-17,4.12,Butterfat (%),Percentage,K02000001
+Feb-17,4.13,Butterfat (%),Percentage,K02000001
+Mar-17,4.12,Butterfat (%),Percentage,K02000001
+Apr-17,4.06,Butterfat (%),Percentage,K02000001
+May-17,3.95,Butterfat (%),Percentage,K02000001
+Jun-17,3.93,Butterfat (%),Percentage,K02000001
+Jul-17,3.93,Butterfat (%),Percentage,K02000001
+Aug-17,4.01,Butterfat (%),Percentage,K02000001
+Sep-17,4.13,Butterfat (%),Percentage,K02000001
+Oct-17,4.18,Butterfat (%),Percentage,K02000001
+Nov-17,4.19,Butterfat (%),Percentage,K02000001
+Dec-17,4.20,Butterfat (%),Percentage,K02000001
+Jan-18,4.16,Butterfat (%),Percentage,K02000001
+Feb-18,4.17,Butterfat (%),Percentage,K02000001
+Mar-18,4.21,Butterfat (%),Percentage,K02000001
+Apr-18,4.13,Butterfat (%),Percentage,K02000001
+May-18,3.97,Butterfat (%),Percentage,K02000001
+Jun-18,3.90,Butterfat (%),Percentage,K02000001
+Jul-18,3.89,Butterfat (%),Percentage,K02000001
+Aug-18,3.98,Butterfat (%),Percentage,K02000001
+Sep-18,4.09,Butterfat (%),Percentage,K02000001
+Oct-18,4.17,Butterfat (%),Percentage,K02000001
+Nov-18,4.20,Butterfat (%),Percentage,K02000001
+Dec-18,4.15,Butterfat (%),Percentage,K02000001
+Jan-19,4.09,Butterfat (%),Percentage,K02000001
+Feb-19,4.10,Butterfat (%),Percentage,K02000001
+Mar-19,4.12,Butterfat (%),Percentage,K02000001
+Apr-19,4.05,Butterfat (%),Percentage,K02000001
+May-19,3.96,Butterfat (%),Percentage,K02000001
+Jun-19,3.98,Butterfat (%),Percentage,K02000001
+Jul-19,3.96,Butterfat (%),Percentage,K02000001
+Aug-19,4.03,Butterfat (%),Percentage,K02000001
+Sep-19,4.14,Butterfat (%),Percentage,K02000001
+Oct-19,4.24,Butterfat (%),Percentage,K02000001
+Nov-19,4.31,Butterfat (%),Percentage,K02000001
+Dec-19,4.26,Butterfat (%),Percentage,K02000001
+Jan-20,4.17,Butterfat (%),Percentage,K02000001
+Feb-20,4.19,Butterfat (%),Percentage,K02000001
+Mar-20,4.22,Butterfat (%),Percentage,K02000001
+Apr-20,4.11,Butterfat (%),Percentage,K02000001
+May-20,3.99,Butterfat (%),Percentage,K02000001
+Jun-20,3.99,Butterfat (%),Percentage,K02000001
+Nov-94 (2),3.26,Protein (%),Percentage,K02000001
+Dec-94 (2),3.21,Protein (%),Percentage,K02000001
+Jan-95,3.16,Protein (%),Percentage,K02000001
+Feb-95,3.12,Protein (%),Percentage,K02000001
+Mar-95,3.14,Protein (%),Percentage,K02000001
+Apr-95,3.16,Protein (%),Percentage,K02000001
+May-95,3.29,Protein (%),Percentage,K02000001
+Jun-95,3.31,Protein (%),Percentage,K02000001
+Jul-95,3.20,Protein (%),Percentage,K02000001
+Aug-95,3.18,Protein (%),Percentage,K02000001
+Sep-95,3.29,Protein (%),Percentage,K02000001
+Oct-95,3.36,Protein (%),Percentage,K02000001
+Nov-95,3.35,Protein (%),Percentage,K02000001
+Dec-95,3.30,Protein (%),Percentage,K02000001
+Jan-96,3.22,Protein (%),Percentage,K02000001
+Feb-96,3.20,Protein (%),Percentage,K02000001
+Mar-96,3.20,Protein (%),Percentage,K02000001
+Apr-96,3.18,Protein (%),Percentage,K02000001
+May-96,3.36,Protein (%),Percentage,K02000001
+Jun-96,3.33,Protein (%),Percentage,K02000001
+Jul-96,3.32,Protein (%),Percentage,K02000001
+Aug-96,3.28,Protein (%),Percentage,K02000001
+Sep-96,3.37,Protein (%),Percentage,K02000001
+Oct-96,3.38,Protein (%),Percentage,K02000001
+Nov-96,3.34,Protein (%),Percentage,K02000001
+Dec-96,3.30,Protein (%),Percentage,K02000001
+Jan-97,3.25,Protein (%),Percentage,K02000001
+Feb-97,3.19,Protein (%),Percentage,K02000001
+Mar-97,3.19,Protein (%),Percentage,K02000001
+Apr-97,3.30,Protein (%),Percentage,K02000001
+May-97,3.33,Protein (%),Percentage,K02000001
+Jun-97,3.33,Protein (%),Percentage,K02000001
+Jul-97,3.30,Protein (%),Percentage,K02000001
+Aug-97,3.28,Protein (%),Percentage,K02000001
+Sep-97,3.38,Protein (%),Percentage,K02000001
+Oct-97,3.39,Protein (%),Percentage,K02000001
+Nov-97,3.36,Protein (%),Percentage,K02000001
+Dec-97,3.30,Protein (%),Percentage,K02000001
+Jan-98,3.25,Protein (%),Percentage,K02000001
+Feb-98,3.22,Protein (%),Percentage,K02000001
+Mar-98,3.19,Protein (%),Percentage,K02000001
+Apr-98,3.21,Protein (%),Percentage,K02000001
+May-98,3.31,Protein (%),Percentage,K02000001
+Jun-98,3.31,Protein (%),Percentage,K02000001
+Jul-98,3.33,Protein (%),Percentage,K02000001
+Aug-98,3.35,Protein (%),Percentage,K02000001
+Sep-98,3.40,Protein (%),Percentage,K02000001
+Oct-98,3.41,Protein (%),Percentage,K02000001
+Nov-98,3.33,Protein (%),Percentage,K02000001
+Dec-98,3.26,Protein (%),Percentage,K02000001
+Jan-99,3.22,Protein (%),Percentage,K02000001
+Feb-99,3.21,Protein (%),Percentage,K02000001
+Mar-99,3.21,Protein (%),Percentage,K02000001
+Apr-99,3.22,Protein (%),Percentage,K02000001
+May-99,3.31,Protein (%),Percentage,K02000001
+Jun-99,3.31,Protein (%),Percentage,K02000001
+Jul-99,3.30,Protein (%),Percentage,K02000001
+Aug-99,3.32,Protein (%),Percentage,K02000001
+Sep-99,3.40,Protein (%),Percentage,K02000001
+Oct-99,3.43,Protein (%),Percentage,K02000001
+Nov-99,3.37,Protein (%),Percentage,K02000001
+Dec-99,3.31,Protein (%),Percentage,K02000001
+Jan-00,3.24,Protein (%),Percentage,K02000001
+Feb-00,3.21,Protein (%),Percentage,K02000001
+Mar-00,3.20,Protein (%),Percentage,K02000001
+Apr-00,3.22,Protein (%),Percentage,K02000001
+May-00,3.30,Protein (%),Percentage,K02000001
+Jun-00,3.29,Protein (%),Percentage,K02000001
+Jul-00,3.29,Protein (%),Percentage,K02000001
+Aug-00,3.31,Protein (%),Percentage,K02000001
+Sep-00,3.39,Protein (%),Percentage,K02000001
+Oct-00,3.37,Protein (%),Percentage,K02000001
+Nov-00,3.33,Protein (%),Percentage,K02000001
+Dec-00,3.28,Protein (%),Percentage,K02000001
+Jan-01,3.24,Protein (%),Percentage,K02000001
+Feb-01,3.21,Protein (%),Percentage,K02000001
+Mar-01,3.21,Protein (%),Percentage,K02000001
+Apr-01,3.20,Protein (%),Percentage,K02000001
+May-01,3.27,Protein (%),Percentage,K02000001
+Jun-01,3.28,Protein (%),Percentage,K02000001
+Jul-01,3.26,Protein (%),Percentage,K02000001
+Aug-01,3.29,Protein (%),Percentage,K02000001
+Sep-01,3.42,Protein (%),Percentage,K02000001
+Oct-01,3.39,Protein (%),Percentage,K02000001
+Nov-01,3.38,Protein (%),Percentage,K02000001
+Dec-01,3.34,Protein (%),Percentage,K02000001
+Jan-02,3.28,Protein (%),Percentage,K02000001
+Feb-02,3.22,Protein (%),Percentage,K02000001
+Mar-02,3.23,Protein (%),Percentage,K02000001
+Apr-02,3.26,Protein (%),Percentage,K02000001
+May-02,3.32,Protein (%),Percentage,K02000001
+Jun-02,3.28,Protein (%),Percentage,K02000001
+Jul-02,3.28,Protein (%),Percentage,K02000001
+Aug-02,3.29,Protein (%),Percentage,K02000001
+Sep-02,3.38,Protein (%),Percentage,K02000001
+Oct-02,3.41,Protein (%),Percentage,K02000001
+Nov-02,3.35,Protein (%),Percentage,K02000001
+Dec-02,3.30,Protein (%),Percentage,K02000001
+Jan-03,3.25,Protein (%),Percentage,K02000001
+Feb-03,3.25,Protein (%),Percentage,K02000001
+Mar-03,3.21,Protein (%),Percentage,K02000001
+Apr-03,3.26,Protein (%),Percentage,K02000001
+May-03,3.34,Protein (%),Percentage,K02000001
+Jun-03,3.30,Protein (%),Percentage,K02000001
+Jul-03,3.26,Protein (%),Percentage,K02000001
+Aug-03,3.26,Protein (%),Percentage,K02000001
+Sep-03,3.39,Protein (%),Percentage,K02000001
+Oct-03,3.44,Protein (%),Percentage,K02000001
+Nov-03,3.36,Protein (%),Percentage,K02000001
+Dec-03,3.27,Protein (%),Percentage,K02000001
+Jan-04,3.21,Protein (%),Percentage,K02000001
+Feb-04,3.19,Protein (%),Percentage,K02000001
+Mar-04,3.18,Protein (%),Percentage,K02000001
+Apr-04,3.19,Protein (%),Percentage,K02000001
+May-04,3.25,Protein (%),Percentage,K02000001
+Jun-04,3.24,Protein (%),Percentage,K02000001
+Jul-04,3.25,Protein (%),Percentage,K02000001
+Aug-04,3.26,Protein (%),Percentage,K02000001
+Sep-04,3.37,Protein (%),Percentage,K02000001
+Oct-04,3.37,Protein (%),Percentage,K02000001
+Nov-04,3.33,Protein (%),Percentage,K02000001
+Dec-04,3.29,Protein (%),Percentage,K02000001
+Jan-05,3.24,Protein (%),Percentage,K02000001
+Feb-05,3.21,Protein (%),Percentage,K02000001
+Mar-05,3.20,Protein (%),Percentage,K02000001
+Apr-05,3.21,Protein (%),Percentage,K02000001
+May-05,3.29,Protein (%),Percentage,K02000001
+Jun-05,3.26,Protein (%),Percentage,K02000001
+Jul-05,3.27,Protein (%),Percentage,K02000001
+Aug-05,3.30,Protein (%),Percentage,K02000001
+Sep-05,3.33,Protein (%),Percentage,K02000001
+Oct-05,3.36,Protein (%),Percentage,K02000001
+Nov-05,3.34,Protein (%),Percentage,K02000001
+Dec-05,3.31,Protein (%),Percentage,K02000001
+Jan-06,3.25,Protein (%),Percentage,K02000001
+Feb-06,3.23,Protein (%),Percentage,K02000001
+Mar-06,3.23,Protein (%),Percentage,K02000001
+Apr-06,3.21,Protein (%),Percentage,K02000001
+May-06,3.24,Protein (%),Percentage,K02000001
+Jun-06,3.23,Protein (%),Percentage,K02000001
+Jul-06,3.19,Protein (%),Percentage,K02000001
+Aug-06,3.24,Protein (%),Percentage,K02000001
+Sep-06,3.35,Protein (%),Percentage,K02000001
+Oct-06,3.38,Protein (%),Percentage,K02000001
+Nov-06,3.38,Protein (%),Percentage,K02000001
+Dec-06,3.34,Protein (%),Percentage,K02000001
+Jan-07,3.28,Protein (%),Percentage,K02000001
+Feb-07,3.25,Protein (%),Percentage,K02000001
+Mar-07,3.25,Protein (%),Percentage,K02000001
+Apr-07,3.27,Protein (%),Percentage,K02000001
+May-07,3.33,Protein (%),Percentage,K02000001
+Jun-07,3.28,Protein (%),Percentage,K02000001
+Jul-07,3.26,Protein (%),Percentage,K02000001
+Aug-07,3.31,Protein (%),Percentage,K02000001
+Sep-07,3.39,Protein (%),Percentage,K02000001
+Oct-07,3.42,Protein (%),Percentage,K02000001
+Nov-07,3.39,Protein (%),Percentage,K02000001
+Dec-07,3.32,Protein (%),Percentage,K02000001
+Jan-08,3.25,Protein (%),Percentage,K02000001
+Feb-08,3.22,Protein (%),Percentage,K02000001
+Mar-08,3.25,Protein (%),Percentage,K02000001
+Apr-08,3.26,Protein (%),Percentage,K02000001
+May-08,3.26,Protein (%),Percentage,K02000001
+Jun-08,3.25,Protein (%),Percentage,K02000001
+Jul-08,3.25,Protein (%),Percentage,K02000001
+Aug-08,3.29,Protein (%),Percentage,K02000001
+Sep-08,3.35,Protein (%),Percentage,K02000001
+Oct-08,3.36,Protein (%),Percentage,K02000001
+Nov-08,3.36,Protein (%),Percentage,K02000001
+Dec-08,3.32,Protein (%),Percentage,K02000001
+Jan-09,3.27,Protein (%),Percentage,K02000001
+Feb-09,3.23,Protein (%),Percentage,K02000001
+Mar-09,3.21,Protein (%),Percentage,K02000001
+Apr-09,3.23,Protein (%),Percentage,K02000001
+May-09,3.26,Protein (%),Percentage,K02000001
+Jun-09,3.24,Protein (%),Percentage,K02000001
+Jul-09,3.22,Protein (%),Percentage,K02000001
+Aug-09,3.26,Protein (%),Percentage,K02000001
+Sep-09,3.32,Protein (%),Percentage,K02000001
+Oct-09,3.36,Protein (%),Percentage,K02000001
+Nov-09,3.34,Protein (%),Percentage,K02000001
+Dec-09,3.32,Protein (%),Percentage,K02000001
+Jan-10,3.30,Protein (%),Percentage,K02000001
+Feb-10,3.26,Protein (%),Percentage,K02000001
+Mar-10,3.24,Protein (%),Percentage,K02000001
+Apr-10,3.23,Protein (%),Percentage,K02000001
+May-10,3.27,Protein (%),Percentage,K02000001
+Jun-10,3.25,Protein (%),Percentage,K02000001
+Jul-10,3.22,Protein (%),Percentage,K02000001
+Aug-10,3.25,Protein (%),Percentage,K02000001
+Sep-10,3.33,Protein (%),Percentage,K02000001
+Oct-10,3.36,Protein (%),Percentage,K02000001
+Nov-10,3.36,Protein (%),Percentage,K02000001
+Dec-10,3.37,Protein (%),Percentage,K02000001
+Jan-11,3.28,Protein (%),Percentage,K02000001
+Feb-11,3.25,Protein (%),Percentage,K02000001
+Mar-11,3.24,Protein (%),Percentage,K02000001
+Apr-11,3.22,Protein (%),Percentage,K02000001
+May-11,3.24,Protein (%),Percentage,K02000001
+Jun-11,3.23,Protein (%),Percentage,K02000001
+Jul-11,3.23,Protein (%),Percentage,K02000001
+Aug-11,3.26,Protein (%),Percentage,K02000001
+Sep-11,3.31,Protein (%),Percentage,K02000001
+Oct-11,3.32,Protein (%),Percentage,K02000001
+Nov-11,3.33,Protein (%),Percentage,K02000001
+Dec-11,3.31,Protein (%),Percentage,K02000001
+Jan-12,3.27,Protein (%),Percentage,K02000001
+Feb-12,3.26,Protein (%),Percentage,K02000001
+Mar-12,3.24,Protein (%),Percentage,K02000001
+Apr-12,3.27,Protein (%),Percentage,K02000001
+May-12,3.24,Protein (%),Percentage,K02000001
+Jun-12,3.22,Protein (%),Percentage,K02000001
+Jul-12,3.20,Protein (%),Percentage,K02000001
+Aug-12,3.22,Protein (%),Percentage,K02000001
+Sep-12,3.29,Protein (%),Percentage,K02000001
+Oct-12,3.33,Protein (%),Percentage,K02000001
+Nov-12,3.34,Protein (%),Percentage,K02000001
+Dec-12,3.30,Protein (%),Percentage,K02000001
+Jan-13,3.23,Protein (%),Percentage,K02000001
+Feb-13,3.23,Protein (%),Percentage,K02000001
+Mar-13,3.23,Protein (%),Percentage,K02000001
+Apr-13,3.21,Protein (%),Percentage,K02000001
+May-13,3.22,Protein (%),Percentage,K02000001
+Jun-13,3.21,Protein (%),Percentage,K02000001
+Jul-13,3.19,Protein (%),Percentage,K02000001
+Aug-13,3.23,Protein (%),Percentage,K02000001
+Sep-13,3.33,Protein (%),Percentage,K02000001
+Oct-13,3.32,Protein (%),Percentage,K02000001
+Nov-13,3.35,Protein (%),Percentage,K02000001
+Dec-13,3.33,Protein (%),Percentage,K02000001
+Jan-14,3.29,Protein (%),Percentage,K02000001
+Feb-14,3.27,Protein (%),Percentage,K02000001
+Mar-14,3.26,Protein (%),Percentage,K02000001
+Apr-14,3.27,Protein (%),Percentage,K02000001
+May-14,3.25,Protein (%),Percentage,K02000001
+Jun-14,3.24,Protein (%),Percentage,K02000001
+Jul-14,3.23,Protein (%),Percentage,K02000001
+Aug-14,3.27,Protein (%),Percentage,K02000001
+Sep-14,3.33,Protein (%),Percentage,K02000001
+Oct-14,3.34,Protein (%),Percentage,K02000001
+Nov-14,3.33,Protein (%),Percentage,K02000001
+Dec-14,3.31,Protein (%),Percentage,K02000001
+Jan-15,3.28,Protein (%),Percentage,K02000001
+Feb-15,3.27,Protein (%),Percentage,K02000001
+Mar-15,3.28,Protein (%),Percentage,K02000001
+Apr-15,3.29,Protein (%),Percentage,K02000001
+May-15,3.31,Protein (%),Percentage,K02000001
+Jun-15,3.30,Protein (%),Percentage,K02000001
+Jul-15,3.31,Protein (%),Percentage,K02000001
+Aug-15,3.31,Protein (%),Percentage,K02000001
+Sep-15,3.44,Protein (%),Percentage,K02000001
+Oct-15,3.41,Protein (%),Percentage,K02000001
+Nov-15,3.36,Protein (%),Percentage,K02000001
+Dec-15,3.32,Protein (%),Percentage,K02000001
+Jan-16,3.28,Protein (%),Percentage,K02000001
+Feb-16,3.28,Protein (%),Percentage,K02000001
+Mar-16,3.29,Protein (%),Percentage,K02000001
+Apr-16,3.27,Protein (%),Percentage,K02000001
+May-16,3.28,Protein (%),Percentage,K02000001
+Jun-16,3.23,Protein (%),Percentage,K02000001
+Jul-16,3.22,Protein (%),Percentage,K02000001
+Aug-16,3.25,Protein (%),Percentage,K02000001
+Sep-16,3.32,Protein (%),Percentage,K02000001
+Oct-16,3.38,Protein (%),Percentage,K02000001
+Nov-16,3.39,Protein (%),Percentage,K02000001
+Dec-16,3.36,Protein (%),Percentage,K02000001
+Jan-17,3.28,Protein (%),Percentage,K02000001
+Feb-17,3.27,Protein (%),Percentage,K02000001
+Mar-17,3.26,Protein (%),Percentage,K02000001
+Apr-17,3.29,Protein (%),Percentage,K02000001
+May-17,3.29,Protein (%),Percentage,K02000001
+Jun-17,3.24,Protein (%),Percentage,K02000001
+Jul-17,3.24,Protein (%),Percentage,K02000001
+Aug-17,3.31,Protein (%),Percentage,K02000001
+Sep-17,3.39,Protein (%),Percentage,K02000001
+Oct-17,3.38,Protein (%),Percentage,K02000001
+Nov-17,3.38,Protein (%),Percentage,K02000001
+Dec-17,3.37,Protein (%),Percentage,K02000001
+Jan-18,3.32,Protein (%),Percentage,K02000001
+Feb-18,3.32,Protein (%),Percentage,K02000001
+Mar-18,3.32,Protein (%),Percentage,K02000001
+Apr-18,3.27,Protein (%),Percentage,K02000001
+May-18,3.27,Protein (%),Percentage,K02000001
+Jun-18,3.23,Protein (%),Percentage,K02000001
+Jul-18,3.21,Protein (%),Percentage,K02000001
+Aug-18,3.28,Protein (%),Percentage,K02000001
+Sep-18,3.40,Protein (%),Percentage,K02000001
+Oct-18,3.44,Protein (%),Percentage,K02000001
+Nov-18,3.44,Protein (%),Percentage,K02000001
+Dec-18,3.37,Protein (%),Percentage,K02000001
+Jan-19,3.33,Protein (%),Percentage,K02000001
+Feb-19,3.34,Protein (%),Percentage,K02000001
+Mar-19,3.33,Protein (%),Percentage,K02000001
+Apr-19,3.36,Protein (%),Percentage,K02000001
+May-19,3.36,Protein (%),Percentage,K02000001
+Jun-19,3.33,Protein (%),Percentage,K02000001
+Jul-19,3.30,Protein (%),Percentage,K02000001
+Aug-19,3.31,Protein (%),Percentage,K02000001
+Sep-19,3.41,Protein (%),Percentage,K02000001
+Oct-19,3.44,Protein (%),Percentage,K02000001
+Nov-19,3.47,Protein (%),Percentage,K02000001
+Dec-19,3.41,Protein (%),Percentage,K02000001
+Jan-20,3.36,Protein (%),Percentage,K02000001
+Feb-20,3.37,Protein (%),Percentage,K02000001
+Mar-20,3.36,Protein (%),Percentage,K02000001
+Apr-20,3.32,Protein (%),Percentage,K02000001
+May-20,3.31,Protein (%),Percentage,K02000001
+Jun-20,3.27,Protein (%),Percentage,K02000001

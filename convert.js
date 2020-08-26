@@ -32,7 +32,7 @@ function afterConfigLoaded(config) {
                 heading3 = config.headers[2].id
                 if (d[j][config.input[i]] != 0) {
                     text = {
-                        [heading1]: d[j].Months,
+                        [heading1]: d[j][config.input[0]],
                         [heading2]: d[j][config.input[i]],
                         [heading3]: d.columns[i]
                     }
@@ -42,12 +42,25 @@ function afterConfigLoaded(config) {
         }
 
         //add in and additional values on all rows
-        if (config.additional[i] != 0) {
+        if (config.additional != 0) {
             for (k = 0; k < output.length; k++) {
                 for (l = 0; l < config.additional.length; l++) {
                     Object.assign(output[k], {
                         [config.additional[l].id]: config.additional[l].value
                     });
+                }
+            }
+        }
+
+        //add in and additional values on dependent rows
+        if (config.dependent != 0) {
+            for (k = 0; k < output.length; k++) {
+                for (l = 0; l < config.dependent.length; l++) {
+                    if (output[k][config.dependent[l].column] === config.dependent[l].ifValue) {
+                        Object.assign(output[k], {
+                            [config.dependent[l].id]: config.dependent[l].thenValue
+                        });
+                    }
                 }
             }
         }
