@@ -13,6 +13,7 @@
         }
     ],
     "input": ["Months", "Price ppl", "Volume (million litres)", "Butterfat (%)", "Protein (%)"],
+    "additional": [],
     "dependent": [{
         "title": "",
         "ifValue": "",

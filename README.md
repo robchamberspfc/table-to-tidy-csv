@@ -2,6 +2,11 @@
 
 
 
+Running
+`node convert.js {script} {filepath} {filename'
+
+e.g. node convert.js config http://127.0.0.1:8887/input/ full
+
 ## Additional columns
 
 ### Same value for all fields
