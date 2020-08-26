@@ -10,25 +10,9 @@
         {
             "id": "measure",
             "title": "Measure"
-        },
-        {
-            "id": "date123",
-            "title": "Test"
-        },
-        {
-            "id": "date1234",
-            "title": "Test2"
         }
     ],
     "input": ["Months", "Price ppl", "Volume (million litres)", "Butterfat (%)", "Protein (%)"],
-    "additional": [{
-        "id": "date123",
-        "value": "Months"
-    },
-    {
-        "id": "date1234",
-        "value": "Months1"
-    }],
     "dependent": [{
         "title": "",
         "ifValue": "",

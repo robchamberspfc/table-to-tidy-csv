@@ -12,6 +12,8 @@ fetch("http://127.0.0.1:8887/input/config.json").then((response) => response.jso
     });
 
 function afterConfigLoaded(config) {
+    console.log(config.headers)
+
     const csvWriter = createCsvWriter({
         path: 'output-test.csv',
         header: config.headers
@@ -28,23 +30,20 @@ function afterConfigLoaded(config) {
                 heading2 = config.headers[1].id
                 heading3 = config.headers[2].id
                 if (d[j][config.input[i]] != 0) {
-                    text = [{[heading1]: d[j].Months},{[heading2]: d[j][config.input[i]]},{[heading3]: d.columns[i]}]
+                    text = {[heading1]:d[j].Months,[heading2]: d[j][config.input[i]],[heading3]: d.columns[i]}
                     output.push(text)
                 }
             }
         }
-        // for (k=0; k< output.length; k++) {
-        //     element = {}
-        //     element.id = "date123";
-        //     element.quantity = "rob";
-        //     output[k].push({[element.id]: element.quantity});
-        // }
-        // console.log(output[0])
-        data = output
-        // data = [{ date: 'Apr-78' },{ value: '10.15' },{ measure: 'Price ppl' },{ data123: 'Price ppl' }]
-        // data = "[ { date: 'Jan-70' }, { value: '4.08' }, { measure: 'Price ppl' } ]"
 
-        // console.log(data)
+        //add in and additional values on all rows
+        for (k=0; k<output.length; k++) {
+            for(l=0; l< config.additional.length; l++) {
+            Object.assign(output[k], {[config.additional[l].id]: config.additional[l].value});
+            }
+        }
+        
+        data = output
         csvWriter.writeRecords(data)
             .then(() => {
                 console.log('Complete');
