@@ -26,9 +26,9 @@ Instructions for MacOS
 
 **To run:**
 
-```node convert.js {config-name} {input-filepath} {input-filename}```
+```node script/convert.js {config-name} {input-filepath} {input-filename}```
 
-For example: ```node convert.js example  http://127.0.0.1:8887/example/ example    ```
+For example: ```node script/convert.js example  http://127.0.0.1:8887/example/ example ```
 
 Input files must be available from a full URI
 
