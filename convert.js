@@ -12,6 +12,8 @@ fetch("http://127.0.0.1:8887/input/config.json").then((response) => response.jso
     });
 
 function afterConfigLoaded(config) {
+    console.log(config.headers)
+
     const csvWriter = createCsvWriter({
         path: 'output-test.csv',
         header: config.headers
@@ -21,25 +23,32 @@ function afterConfigLoaded(config) {
 
     d3.csv("http://127.0.0.1:8887/input/full.csv").then(function (d) {
         let output = []
-        for (i=1; i <config.input.length; i++) {
-            for (j=0; j<d.length; j++) {
-            heading1 = config.headers[0].id
-            heading2 = config.headers[1].id
-            heading3 = config.headers[2].id
-            if(d[j][config.input[i]] !=0 ){
-                text = {[heading1]:d[j].Months,[heading2]: d[j][config.input[i]],[heading3]: d.columns[i]}
-                output.push(text)
+        for (i = 1; i < config.input.length; i++) {
+            for (j = 0; j < d.length; j++) {
+                heading1 = config.headers[0].id
+                heading2 = config.headers[1].id
+                heading3 = config.headers[2].id
+                if (d[j][config.input[i]] != 0) {
+                    text = {[heading1]:d[j].Months,[heading2]: d[j][config.input[i]],[heading3]: d.columns[i]}
+                    output.push(text)
+                }
             }
         }
-    }
-        data= output
+
+        //add in and additional values on all rows
+        for (k=0; k<output.length; k++) {
+            for(l=0; l< config.additional.length; l++) {
+            Object.assign(output[k], {[config.additional[l].id]: config.additional[l].value});
+            }
+        }
+        
+        data = output
         csvWriter.writeRecords(data)
             .then(() => {
-                console.log('...Done');
+                console.log('Complete');
             });
         return data
     }).catch(function (error) {
         console.log(error);
     });
-
 }
