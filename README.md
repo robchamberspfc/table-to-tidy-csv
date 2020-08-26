@@ -7,6 +7,9 @@ Running
 
 e.g. node convert.js config http://127.0.0.1:8887/input/ full
 
+|Dates|Data columns|Data columns|Data columns|
+|{dates}|{data}|{data}|{data}|
+
 ## Additional columns
 
 ### Same value for all fields

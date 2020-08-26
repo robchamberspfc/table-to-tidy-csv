@@ -3,11 +3,10 @@ if (typeof fetch !== 'function') {
     global.fetch = require('node-fetch-polyfill');
 }
 const createCsvWriter = require('csv-writer').createObjectCsvWriter;
-
 const args = process.argv.slice(2)
-configFile = args[0]
-filePath = args[1]
-csvName = args[2]
+const configFile = args[0]
+const filePath = args[1]
+const csvName = args[2]
 
 fetch(filePath + configFile + ".json").then((response) => response.json())
     .then(json => {
