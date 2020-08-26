@@ -1,6 +1,6 @@
 # table-to-tidy-csv
 
-Converts simple tablular data and allows additional columns to be added, either universally or based on the values in other columns.
+Converts simple tabular data and allows additional columns to be added, either universally or based on the values in other columns.
 
 ## Running
 
@@ -9,6 +9,7 @@ Converts simple tablular data and allows additional columns to be added, either 
 ```npm install```
 
 ```node convert.js {script} {filepath} {filename}```
+
 e.g. node convert.js config http://127.0.0.1:8887/input/ full
 
 
