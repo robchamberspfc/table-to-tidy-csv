@@ -22,9 +22,6 @@
         {
             "id": "unit",
             "title": "Units"
-        },       {
-            "id": "geog",
-            "title": "Geography"
         }
     ],
     "input": ["Months", "Price ppl", "Volume (million litres)", "Butterfat (%)", "Protein (%)"],

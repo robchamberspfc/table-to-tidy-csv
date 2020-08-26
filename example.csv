@@ -1,0 +1,17 @@
+Months,Value,Measure,Test,Test2,Units
+Jul-94,24.06,Price ppl,Months,Months1,price
+Aug-94,24.27,Price ppl,Months,Months1,price
+Sep-94,24.22,Price ppl,Months,Months1,price
+Oct-94,23.39,Price ppl,Months,Months1,price
+Nov-94 (2),24.34,Price ppl,Months,Months1,price
+Dec-94 (2),24.09,Price ppl,Months,Months1,price
+Nov-94 (2),"1,102",Volume (million litres),Months,Months1,volume
+Dec-94 (2),"1,131",Volume (million litres),Months,Months1,volume
+Jul-94,3.96,Butterfat (%),Months,Months1,butterfat
+Aug-94,4.01,Butterfat (%),Months,Months1,butterfat
+Sep-94,4.19,Butterfat (%),Months,Months1,butterfat
+Oct-94,4.23,Butterfat (%),Months,Months1,butterfat
+Nov-94 (2),4.15,Butterfat (%),Months,Months1,butterfat
+Dec-94 (2),4.12,Butterfat (%),Months,Months1,butterfat
+Nov-94 (2),3.26,Protein (%),Months,Months1,protein
+Dec-94 (2),3.21,Protein (%),Months,Months1,protein

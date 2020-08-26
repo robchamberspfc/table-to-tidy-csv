@@ -28,7 +28,7 @@ Instructions for MacOS
 
 ```node convert.js {config-name} {input-filepath} {input-filename}```
 
-For example: ```node convert.js config http://127.0.0.1:8887/input/ full```
+For example: ```node convert.js example  http://127.0.0.1:8887/example/ example    ```
 
 Input files must be available from a full URI
 

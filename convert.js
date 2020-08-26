@@ -18,9 +18,13 @@ fetch(filePath + configFile + ".json").then((response) => response.json())
 
 //write the output csv headers
 function afterConfigLoaded(config) {
+    if (configFile == "example") {
+        path = 'example.csv'
+    } else {
+        path = 'output.csv'
+    }
     const csvWriter = createCsvWriter({
-        //
-        path: 'output.csv',
+        path: path,
         header: config.headers
     });
 
@@ -74,7 +78,7 @@ function afterConfigLoaded(config) {
         //write all the column values to the output file
         csvWriter.writeRecords(output)
             .then(() => {
-                console.log('Complete file at output.csv (cmd + click)');
+                console.log('Complete file at ' + path + ' (cmd + click)');
             });
         return output
     }).catch(function (error) {
