@@ -22,36 +22,60 @@
         {
             "id": "unit",
             "title": "Units"
+        },
+        {
+            "id": "geography",
+            "title": "Geography"
+        },
+        {
+            "id": "other",
+            "title": "Test3"
         }
     ],
     "input": ["Months", "Price ppl", "Volume (million litres)", "Butterfat (%)", "Protein (%)"],
     "additional": [{
-        "id": "date123",
-        "value": "Months"
-    },
-    {
-        "id": "date1234",
-        "value": "Months1"
-    }],
+            "id": "date123",
+            "value": "Months"
+        },
+        {
+            "id": "date1234",
+            "value": "Months1"
+        }
+    ],
     "dependent": [{
         "id": "unit",
-        "column":"measure",
+        "column": "measure",
         "ifValue": "Price ppl",
         "thenValue": "price"
-    },{
+    }, {
         "id": "unit",
-        "column":"measure",
+        "column": "measure",
         "ifValue": "Volume (million litres)",
         "thenValue": "volume"
-    },{
+    }, {
         "id": "unit",
-        "column":"measure",
+        "column": "measure",
         "ifValue": "Butterfat (%)",
         "thenValue": "butterfat"
-    },{
+    }, {
         "id": "unit",
-        "column":"measure",
+        "column": "measure",
         "ifValue": "Protein (%)",
         "thenValue": "protein"
-    }]
+    }],
+    "ifElse": [{
+            "id": "geography",
+            "column": "date",
+            "ifValue": ["Sep-94", "Oct-94"],
+            "thenValue": "K03000001",
+            "else": "K02000001"
+        },
+        {
+            "id": "other",
+            "column": "measure",
+            "ifValue": ["Price ppl"],
+            "thenValue": "£",
+            "else": "%"
+        }
+    ]
 }

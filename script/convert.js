@@ -62,7 +62,7 @@ function afterConfigLoaded(config) {
             }
         }
 
-        //add in and additional values on dependent rows
+        //add in any additional values on dependent rows
         if (config.dependent != 0) {
             for (k = 0; k < output.length; k++) {
                 for (l = 0; l < config.dependent.length; l++) {
@@ -74,6 +74,40 @@ function afterConfigLoaded(config) {
                 }
             }
         }
+
+        //add in any additional values on if/else rows
+        if (config.ifElse != 0) {
+            for (k = 0; k < output.length; k++) {
+                for (l = 0; l < config.ifElse.length; l++) {
+                    if (output[k][config.ifElse[l].column] === config.ifElse[l].ifValue[0]) {
+                        Object.assign(output[k], {
+                            [config.ifElse[l].id]: config.ifElse[l].thenValue
+                        });
+                    } else if (output[k][config.ifElse[l].column] === config.ifElse[l].ifValue[1]) {
+                        Object.assign(output[k], {
+                            [config.ifElse[l].id]: config.ifElse[l].thenValue
+                        });
+                    } else if (output[k][config.ifElse[l].column] === config.ifElse[l].ifValue[2]) {
+                        Object.assign(output[k], {
+                            [config.ifElse[l].id]: config.ifElse[l].thenValue
+                        });
+                    } else if (output[k][config.ifElse[l].column] === config.ifElse[l].ifValue[3]) {
+                        Object.assign(output[k], {
+                            [config.ifElse[l].id]: config.ifElse[l].thenValue
+                        });
+                    } else if (output[k][config.ifElse[l].column] === config.ifElse[l].ifValue[4]) {
+                        Object.assign(output[k], {
+                            [config.ifElse[l].id]: config.ifElse[l].thenValue
+                        });
+                    } else {
+                        Object.assign(output[k], {
+                            [config.ifElse[l].id]: config.ifElse[l].else
+                        });
+                    }
+                }
+            }
+        }
+
 
         //write all the column values to the output file
         csvWriter.writeRecords(output)

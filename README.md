@@ -89,7 +89,7 @@ and
 ```
 
 ##### Dependent on other column values
-
+Add values to a new column based on if they match another column. Column will be blank for any values that don't match.
 ```
     {
         "id": "unit",
@@ -98,3 +98,16 @@ and
         "thenValue": "price"
     },
 ```
+##### If/else column
+Add an additional column by checking if a value matches another. If it doesn't match any of these values the 'else' value will be used.
+
+```
+    {
+        "id": "geography",
+        "column": "date",
+        "ifValue": ["Sep-94", "Oct-94"],            
+        "thenValue": "K03000001",
+        "else": "K02000001"
+    }
+```
+Currently checks up to 5 values entered in the ifValue array.
