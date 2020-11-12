@@ -1,0 +1,64 @@
+{
+    "headers": [{
+            "id": "date",
+            "title": "Month"
+        },
+        {
+            "id": "value",
+            "title": "Value"
+        },
+        {
+            "id": "measure",
+            "title": "Measure type"
+        },
+        {
+            "id": "unit",
+            "title": "Unit of Measure"
+        },
+        {
+            "id": "geog",
+            "title": "Geography"
+        },
+        {
+            "id": "status",
+            "title": "Status"
+        }
+    ],
+    "input": ["Months", "Price", "Volume", "Butterfat", "Protein"],
+    "additional": [],
+    "dependent": [{
+        "id": "unit",
+        "column": "measure",
+        "ifValue": "Price",
+        "thenValue": "Pence per litre"
+    }, {
+        "id": "unit",
+        "column": "measure",
+        "ifValue": "Volume",
+        "thenValue": "Million litres"
+    }, {
+        "id": "unit",
+        "column": "measure",
+        "ifValue": "Butterfat",
+        "thenValue": "Percentage"
+    }, {
+        "id": "unit",
+        "column": "measure",
+        "ifValue": "Protein",
+        "thenValue": "Percentage"
+    }],
+    "ifElse": [{
+        "id": "geog",
+        "column": "date",
+        "ifValue": ["Nov-94", "Dec-94"],
+        "thenValue": "K03000001",
+        "else": "K02000001"
+    }, {
+        "id": "status",
+        "column": "date",
+        "ifValue": ["Jun-20"],
+        "thenValue": "Provisional",
+        "else": "Finalised"  
+    }]
+    
+}

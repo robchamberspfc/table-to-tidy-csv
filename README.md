@@ -111,3 +111,12 @@ Add an additional column by checking if a value matches another. If it doesn't m
     }
 ```
 Currently checks up to 5 values entered in the ifValue array.
+
+
+
+## Codelists
+
+`node script/codelist.js http://127.0.0.1:8887/input/ milk-annual years`
+
+`node script/codelist.js http://127.0.0.1:8887/input/ milk-monthly months`
+
